@@ -28,7 +28,10 @@ I was originally a WordPress developer. I worked with and on WordPress for about
 I gave some time to ReactJS. Don't get me wrong. it's great. Standalone, with nothing. It does it's job well. But if you want to do 2 way data binding, you want to create routes, you want to create a full blown app quick. well, you will have to organize. There is no Quick. there's just a lot of work, you need libraries like Redux that have a ton of components and dependencies for each and every feature. And if one component has an error or is incompatible because of it's version to a modification/feature that is needed. The whole thing crashes and does not work. there needs to be a better organizing path.
 
 Originally I learned and did a personal project in Angular 1.5.x but later, angular 2 came out of beta. It was weird, did not give it much thought. I am giving it thought now. and I am studying it, planning to make a new project on it. Won't give details about that just yet, but I will as soon as I have something. All that I can say is that this project will need to be finished fast. And I will have a MVP as soon as possible (my target is by 1 April).
+
 So what I can say for now, is , I'm going all in Angular 2. I'm also going all in to another programming language, but that is for later. Thank you for reading thus far. 
+
+I always want more, it's never enough, there's so much information outh there that you can't really settle. Unless you want to be a plain waste of air. Then you should settle. So many people have. Just Fuck, eat, shit and sleep. If that's what your life purpose to be, fine. You have that right. I don't. I want more.
 
 Stay tuned for more.
 
