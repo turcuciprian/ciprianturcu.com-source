@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ciprian Turcu&#39;s Website</title>
+    <link>http://ciprianturcu.com/index.xml</link>
+    <description>Recent content on Ciprian Turcu&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Mar 2017 17:22:27 +0200</lastBuildDate>
+    <atom:link href="http://ciprianturcu.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Welcome to my site</title>
+      <link>http://ciprianturcu.com/post/welcome/</link>
+      <pubDate>Sun, 19 Mar 2017 17:22:27 +0200</pubDate>
+      
+      <guid>http://ciprianturcu.com/post/welcome/</guid>
+      <description>
+
+&lt;p&gt;This is my new website where I will keep updates of my progress of everything I do, here.&lt;/p&gt;
+
+&lt;p&gt;I must warn you, I do change really fast, you&amp;rsquo;ll see my past examples. I change to evolve, to test, to figure out from my own experience and go to the next level ASAP. I change to get things done. I change to test. I change because , right now, I can.&lt;/p&gt;
+
+&lt;h3 id=&#34;for-a-bit-of-backstory&#34;&gt;For a bit of backstory&lt;/h3&gt;
+
+&lt;p&gt;I quit my dayjob about 3 weeks ago and am working full time for myself. No projects for clients so far. And I&amp;rsquo;m not trying to have projects from clients. I&amp;rsquo;m trying to build my own product and or service. But there&amp;rsquo;s nothing of that either. Yet. I do have some Ideas. I quit because I wanted to do my own stuff, to work on my own dreams, and not somebody else&amp;rsquo;s. I can&amp;rsquo;t say I was&amp;rsquo;t inspired by some books I read. In a cliche-ish way, one that was Steve Job&amp;rsquo;s biography and one that is Elon Musk&amp;rsquo;s biography. Combined, and after some processing time, I had a decision that I made a little over a year ago. Where I decided I was going to quit. But, because I didn&amp;rsquo;t have any resources gathered, I was going to stay for 6 more months.&lt;/p&gt;
+
+&lt;p&gt;I ended up staying for 1 year. But here I am now, one year later. With no project, no idea and no clear path to go on. Scary, right? the money is going to run out. Eventually. I&amp;rsquo;d better get to work. NOW!&lt;/p&gt;
+
+&lt;p&gt;Thing is, I don&amp;rsquo;t want that to be the motivator for my progress. I have a company now, named ToolAxy One. That&amp;rsquo;s formed from &amp;ldquo;tools&amp;rdquo; and &amp;ldquo;galaxy&amp;rdquo;. The name came out of the idea that I was going to make on it, a hand full of useful tools. One is there for 2 reasons:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;To try to make the name unique, to show that it is the first one, the only one.&lt;/li&gt;
+&lt;li&gt;Because just ToolAxy was taken and is too simple for today&amp;rsquo;s company names.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;So there&amp;rsquo;s the story behind that name.&lt;/p&gt;
+
+&lt;h3 id=&#34;what-s-next&#34;&gt;What&amp;rsquo;s next?&lt;/h3&gt;
+
+&lt;p&gt;I was originally a WordPress developer. I worked with and on WordPress for about 10 years now. It was time for a change a while back. But I refused to see that, I wanted to contribute more, to try, to give more, to bring value, to WordPress. I wanted. So I searched for new, more exciting, more capable Software Development oportunities. I studied and tried Swift 3 for iOS 10. You know, the programming language for iphone, iPad, OSX, iWatch? right. The market there is overblown, the competition is fierce and there are limitations created by apple for it&amp;rsquo;s ecosystem. I did not want to make a &amp;ldquo;me too&amp;rdquo; type of idea and most ideas&amp;hellip; well.. there&amp;rsquo;s an app for that.&lt;/p&gt;
+
+&lt;p&gt;I gave some time to ReactJS. Don&amp;rsquo;t get me wrong. it&amp;rsquo;s great. Standalone, with nothing. It does it&amp;rsquo;s job well. But if you want to do 2 way data binding, you want to create routes, you want to create a full blown app quick. well, you will have to organize. There is no Quick. there&amp;rsquo;s just a lot of work, you need libraries like Redux that have a ton of components and dependencies for each and every feature. And if one component has an error or is incompatible because of it&amp;rsquo;s version to a modification/feature that is needed. The whole thing crashes and does not work. there needs to be a better organizing path.&lt;/p&gt;
+
+&lt;p&gt;Originally I learned and did a personal project in Angular 1.5.x but later, angular 2 came out of beta. It was weird, did not give it much thought. I am giving it thought now. and I am studying it, planning to make a new project on it. Won&amp;rsquo;t give details about that just yet, but I will as soon as I have something. All that I can say is that this project will need to be finished fast. And I will have a MVP as soon as possible (my target is by 1 April).
+So what I can say for now, is , I&amp;rsquo;m going all in Angular 2. I&amp;rsquo;m also going all in to another programming language, but that is for later. Thank you for reading thus far.&lt;/p&gt;
+
+&lt;p&gt;Stay tuned for more.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
