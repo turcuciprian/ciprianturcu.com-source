@@ -1,10 +1,10 @@
 +++
-date = "2017-03-31T23:25:10+03:00"
-description = "Angular 2.x or jquery 3.x"
 title = "Paste Project - Angular vs jQuery"
-+++
+date = "2017-03-31T23:25:10+03:00"
+draft = false
+description = "Angular 2.x or jquery 3.x"
 
-### Backstory
++++
 
 ##### Angular 2
 
@@ -13,11 +13,11 @@ First I did the angular tour of heroes tutorial on the official site. Kind of go
 
 I loved routing, how it was done in Angular 2, just loved it. Everything was so simple, it made sense.HTTP, not so much and dependency injection I did not quite get.
 
-##### jQuery
+### jQuery
 
 I've been working with jQuery for about 10 years. It's been a love-hate relationship but more love, like 85% love, 15% hate. Hate in the first years when things did not work. It was usually (mostly) my fault when that happened. but in jQuery, like, I think most of everybody else that's a 10+ year front end (or full stack) developer, I was and am, more in control of, more comfortable with.
 
-##### The project
+### The project
 
 The project was simple. A webpage where you get to put something in a textbox on mobile and then have it on any other place (desktop mostly). A web based app that allows any user to share anything at any given time.
 
