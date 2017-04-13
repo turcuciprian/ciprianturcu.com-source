@@ -16,4 +16,6 @@ In short, I'm learning Swift and iOS development. I left all the web stuff behin
 
 *** SWIFT?
 
-Yeah, swift. I understand how I can make useful apps that will actualy be capable to solve real life problems if I buuild them for the iPhone. xCode is awesome
+Yeah, swift. I understand how I can make useful apps that will actualy be capable to solve real life problems if I build them for the iPhone. xCode is awesome, SWIFT is awesome, right now I'm still learning it and basic principles in it,, core data, MVC, about IBOutlets and IBActions, how classes work and are inherited, how everything ties together. The emulator is great, I get to test any app that I make for real on my iPhone SE and I'm going to soon opt in to register a developer account (a paying one) on the app store.
+
+I have an app in mind, that I'm not going to talk about yet, that I want to make, lounch, monetize and see how it goes.
