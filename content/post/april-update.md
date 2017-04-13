@@ -12,4 +12,8 @@ Alright, that was the last rand about angular and react, from me. But this post 
 
 *** Seriosuly, what?
 
-In short, I'm learning Swift and iOS development. I left all the web stuff behind. No longer want to see WordPress, javascript, php, CSS, LESS, Gulp, HTML, MYSQL. That's behind me now. It's like a old girlfriend that I had a long lasting relationship with and now just broke up. It's Important and healthy to move on as fast as possible. Expecially if the relationship was not going that well at the end, and after you broke up with her, you hear she really got on a weird/bad path
+In short, I'm learning Swift and iOS development. I left all the web stuff behind. No longer want to see WordPress, javascript, php, CSS, LESS, Gulp, HTML, MYSQL. That's behind me now. It's like a old girlfriend that I had a long lasting relationship with and now just broke up. It's Important and healthy to move on as fast as possible. Expecially if the relationship was not going that well at the end, and after you broke up with her, you hear she really got on a weird/bad path. The girlfriend in this case is the Web Development. That will make sense in a few years.
+
+*** SWIFT?
+
+Yeah, swift. I understand how I can make useful apps that will actualy be capable to solve real life problems if I buuild them for the iPhone. xCode is awesome
