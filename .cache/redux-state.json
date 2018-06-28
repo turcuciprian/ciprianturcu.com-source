@@ -1,0 +1,4244 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "path": "/dev-404-page/",
+      "id": "SitePage /dev-404-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin dev-404-page": {
+      "resolve": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "Plugin dev-404-page",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "d188360b68eb639fac195dc06f84f549",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-layout-creator": {
+      "resolve": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "id": "Plugin component-layout-creator",
+      "name": "component-layout-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createLayouts"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "packageJson": {
+        "name": "component-layout-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/layouts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "36c22a6e3fb889c0367f4f5f0b1b3a68",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin internal-data-bridge": {
+      "resolve": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "Plugin internal-data-bridge",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "956064b6fb76a14610ddf62390c9d5cc",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin prod-404": {
+      "resolve": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "Plugin prod-404",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "57824b4f708047fd9e797627391fd78b",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin query-runner": {
+      "resolve": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "Plugin query-runner",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage",
+        "onCreateLayout"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "9fab3aaf61250010fd95d7985590ebc9",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-source-filesystem": {
+      "resolve": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/node_modules/gatsby-source-filesystem",
+      "id": "Plugin gatsby-source-filesystem",
+      "name": "gatsby-source-filesystem",
+      "version": "1.5.39",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages",
+        "name": "pages"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "1.5.39",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.1"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^1.3.6"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.9.250"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "e7a56d22fcfb09bbdee4d2527b0cc337",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-feed": {
+      "resolve": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/node_modules/gatsby-plugin-feed",
+      "id": "Plugin gatsby-plugin-feed",
+      "name": "gatsby-plugin-feed",
+      "version": "1.3.25",
+      "pluginOptions": {
+        "plugins": [],
+        "query": "\n          {\n            site {\n              siteMetadata {\n                site_url: url\n                title\n                description: subtitle\n              }\n            }\n          }\n        ",
+        "feeds": [
+          {
+            "query": "\n              {\n                allMarkdownRemark(\n                  limit: 1000,\n                  sort: { order: DESC, fields: [frontmatter___date] },\n                  filter: { frontmatter: { layout: { eq: \"post\" }, draft: { ne: true } } }\n                ) {\n                  edges {\n                    node {\n                      html\n                      fields {\n                        slug\n                      }\n                      frontmatter {\n                        title\n                        date\n                        layout\n                        draft\n                        description\n                      }\n                    }\n                  }\n                }\n              }\n            ",
+            "output": "/rss.xml"
+          }
+        ]
+      },
+      "nodeAPIs": [
+        "onPostBuild"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/node_modules/gatsby-plugin-feed",
+      "packageJson": {
+        "name": "gatsby-plugin-feed",
+        "description": "Creates an RSS feed for your Gatsby site.",
+        "version": "1.3.25",
+        "main": "index.js",
+        "keywords": [
+          "atom",
+          "feed",
+          "gatsby",
+          "gatsby-plugin",
+          "rss"
+        ],
+        "author": {
+          "name": "Nicholas Young",
+          "email": "nicholas@nicholaswyoung.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "lodash.merge",
+            "version": "^4.6.0"
+          },
+          {
+            "name": "mkdirp",
+            "version": "^0.5.1"
+          },
+          {
+            "name": "pify",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "rss",
+            "version": "^1.2.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "7790166b40128e29269a852422add050",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-transformer-remark": {
+      "resolve": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/node_modules/gatsby-transformer-remark",
+      "id": "Plugin gatsby-transformer-remark",
+      "name": "gatsby-transformer-remark",
+      "version": "1.7.44",
+      "pluginOptions": {
+        "plugins": [
+          {
+            "resolve": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/node_modules/gatsby-remark-images",
+            "id": "Plugin gatsby-remark-images",
+            "name": "gatsby-remark-images",
+            "version": "1.5.67",
+            "pluginOptions": {
+              "plugins": [],
+              "maxWidth": 960,
+              "wrapperStyle": "",
+              "backgroundColor": "white",
+              "linkImagesToOriginal": true,
+              "showCaptions": false,
+              "pathPrefix": ""
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/node_modules/gatsby-remark-images"
+          },
+          {
+            "resolve": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/node_modules/gatsby-remark-responsive-iframe",
+            "id": "Plugin gatsby-remark-responsive-iframe",
+            "name": "gatsby-remark-responsive-iframe",
+            "version": "1.4.20",
+            "pluginOptions": {
+              "plugins": [],
+              "wrapperStyle": "margin-bottom: 1.0725rem"
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/node_modules/gatsby-remark-responsive-iframe"
+          },
+          {
+            "resolve": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/node_modules/gatsby-remark-prismjs",
+            "id": "Plugin gatsby-remark-prismjs",
+            "name": "gatsby-remark-prismjs",
+            "version": "1.2.24",
+            "pluginOptions": {
+              "plugins": []
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/node_modules/gatsby-remark-prismjs"
+          },
+          {
+            "resolve": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/node_modules/gatsby-remark-copy-linked-files",
+            "id": "Plugin gatsby-remark-copy-linked-files",
+            "name": "gatsby-remark-copy-linked-files",
+            "version": "1.5.37",
+            "pluginOptions": {
+              "plugins": [],
+              "ignoreFileExtensions": [
+                "png",
+                "jpg",
+                "jpeg",
+                "bmp",
+                "tiff"
+              ]
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/node_modules/gatsby-remark-copy-linked-files"
+          },
+          {
+            "resolve": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/node_modules/gatsby-remark-smartypants",
+            "id": "Plugin gatsby-remark-smartypants",
+            "name": "gatsby-remark-smartypants",
+            "version": "1.4.12",
+            "pluginOptions": {
+              "plugins": []
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/node_modules/gatsby-remark-smartypants"
+          }
+        ]
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/node_modules/gatsby-transformer-remark",
+      "packageJson": {
+        "name": "gatsby-transformer-remark",
+        "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
+        "version": "1.7.44",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "graphql-type-json",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "gray-matter",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "hast-util-raw",
+            "version": "^2.0.2"
+          },
+          {
+            "name": "hast-util-to-html",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "mdast-util-to-hast",
+            "version": "^2.4.0"
+          },
+          {
+            "name": "mdast-util-toc",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "remark",
+            "version": "^7.0.1"
+          },
+          {
+            "name": "remark-parse",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "remark-retext",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "remark-stringify",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "retext-english",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "sanitize-html",
+            "version": "^1.14.1"
+          },
+          {
+            "name": "underscore.string",
+            "version": "^3.3.4"
+          },
+          {
+            "name": "unified",
+            "version": "^6.1.5"
+          },
+          {
+            "name": "unist-util-remove-position",
+            "version": "^1.1.1"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-plugin-transform-object-rest-spread",
+            "version": "^6.20.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "bf70a297e3312cbea1ebf046e41cba03",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-remark-images": {
+      "resolve": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/node_modules/gatsby-remark-images",
+      "id": "Plugin gatsby-remark-images",
+      "name": "gatsby-remark-images",
+      "version": "1.5.67",
+      "pluginOptions": {
+        "plugins": [],
+        "maxWidth": 960,
+        "wrapperStyle": "",
+        "backgroundColor": "white",
+        "linkImagesToOriginal": true,
+        "showCaptions": false,
+        "pathPrefix": ""
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/node_modules/gatsby-remark-images",
+      "packageJson": {
+        "name": "gatsby-remark-images",
+        "description": "Processes images in markdown so they can be used in the production build.",
+        "version": "1.5.67",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "markdown",
+          "remark",
+          "responsive images"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^1.6.48"
+          },
+          {
+            "name": "is-relative-url",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "39488f6a940215082b43aa288fcb8fa2",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-remark-responsive-iframe": {
+      "resolve": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/node_modules/gatsby-remark-responsive-iframe",
+      "id": "Plugin gatsby-remark-responsive-iframe",
+      "name": "gatsby-remark-responsive-iframe",
+      "version": "1.4.20",
+      "pluginOptions": {
+        "plugins": [],
+        "wrapperStyle": "margin-bottom: 1.0725rem"
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/node_modules/gatsby-remark-responsive-iframe",
+      "packageJson": {
+        "name": "gatsby-remark-responsive-iframe",
+        "description": "Make iframes in Markdown processed by Remark responsive",
+        "version": "1.4.20",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          },
+          {
+            "name": "remark",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "unist-util-find",
+            "version": "^1.0.1"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "9237db3ecabc8fdd9475b3d0d81acf31",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-remark-prismjs": {
+      "resolve": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/node_modules/gatsby-remark-prismjs",
+      "id": "Plugin gatsby-remark-prismjs",
+      "name": "gatsby-remark-prismjs",
+      "version": "1.2.24",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/node_modules/gatsby-remark-prismjs",
+      "packageJson": {
+        "name": "gatsby-remark-prismjs",
+        "description": "Adds syntax highlighting to code blocks at build time using PrismJS",
+        "version": "1.2.24",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "prismjs",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "parse-numeric-range",
+            "version": "0.0.2"
+          },
+          {
+            "name": "prismjs",
+            "version": "^1.12.2"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.3.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.3"
+          },
+          {
+            "name": "remark",
+            "version": "^7.0.1"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "0b00124d0043fec257f48836856bf512",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-remark-copy-linked-files": {
+      "resolve": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/node_modules/gatsby-remark-copy-linked-files",
+      "id": "Plugin gatsby-remark-copy-linked-files",
+      "name": "gatsby-remark-copy-linked-files",
+      "version": "1.5.37",
+      "pluginOptions": {
+        "plugins": [],
+        "ignoreFileExtensions": [
+          "png",
+          "jpg",
+          "jpeg",
+          "bmp",
+          "tiff"
+        ]
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/node_modules/gatsby-remark-copy-linked-files",
+      "packageJson": {
+        "name": "gatsby-remark-copy-linked-files",
+        "description": "Find files which are linked to from markdown and copy them to the public directory",
+        "version": "1.5.37",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "prismjs",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.1"
+          },
+          {
+            "name": "is-relative-url",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "path-is-inside",
+            "version": "^1.0.2"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "dd93d481c0ee1aeee8abbd6af9fd8ed1",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-remark-smartypants": {
+      "resolve": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/node_modules/gatsby-remark-smartypants",
+      "id": "Plugin gatsby-remark-smartypants",
+      "name": "gatsby-remark-smartypants",
+      "version": "1.4.12",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/node_modules/gatsby-remark-smartypants",
+      "packageJson": {
+        "name": "gatsby-remark-smartypants",
+        "description": "Use retext-smartypants to auto-enhance typography of markdown",
+        "version": "1.4.12",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "smartypants"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "retext",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "retext-smartypants",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "60d49d691deda66fea40633bea4c4701",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-transformer-sharp": {
+      "resolve": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/node_modules/gatsby-transformer-sharp",
+      "id": "Plugin gatsby-transformer-sharp",
+      "name": "gatsby-transformer-sharp",
+      "version": "1.6.27",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType",
+        "onPreExtractQueries"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/node_modules/gatsby-transformer-sharp",
+      "packageJson": {
+        "name": "gatsby-transformer-sharp",
+        "description": "Gatsby transformer plugin for images using Sharp",
+        "version": "1.6.27",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "40568591059560a4e8cd704faeae7146",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-sharp": {
+      "resolve": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/node_modules/gatsby-plugin-sharp",
+      "id": "Plugin gatsby-plugin-sharp",
+      "name": "gatsby-plugin-sharp",
+      "version": "1.6.48",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/node_modules/gatsby-plugin-sharp",
+      "packageJson": {
+        "name": "gatsby-plugin-sharp",
+        "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
+        "version": "1.6.48",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "async",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "imagemin",
+            "version": "^5.2.2"
+          },
+          {
+            "name": "imagemin-pngquant",
+            "version": "5.0.1"
+          },
+          {
+            "name": "imagemin-webp",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "mini-svg-data-uri",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.20.0"
+          },
+          {
+            "name": "svgo",
+            "version": "^0.7.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "38b53265d79d269348875264a5f48903",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-google-analytics": {
+      "resolve": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/node_modules/gatsby-plugin-google-analytics",
+      "id": "Plugin gatsby-plugin-google-analytics",
+      "name": "gatsby-plugin-google-analytics",
+      "version": "1.0.31",
+      "pluginOptions": {
+        "plugins": [],
+        "trackingId": "UA-73379983-2"
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [
+        "onRouteUpdate"
+      ],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/node_modules/gatsby-plugin-google-analytics",
+      "packageJson": {
+        "name": "gatsby-plugin-google-analytics",
+        "description": "Gatsby plugin to add google analytics onto a site",
+        "version": "1.0.31",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "google analytics"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "223a8eae46781fe1d81d5d0c7cf170f2",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-google-fonts": {
+      "resolve": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/node_modules/gatsby-plugin-google-fonts",
+      "id": "Plugin gatsby-plugin-google-fonts",
+      "name": "gatsby-plugin-google-fonts",
+      "version": "0.0.4",
+      "pluginOptions": {
+        "plugins": [],
+        "fonts": [
+          "roboto:400,400i,500,700"
+        ]
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/node_modules/gatsby-plugin-google-fonts",
+      "packageJson": {
+        "name": "gatsby-plugin-google-fonts",
+        "description": "Bring Google Fonts to Gatsby",
+        "version": "0.0.4",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gastby-plugin",
+          "react",
+          "google",
+          "fonts"
+        ],
+        "author": {
+          "name": "Didier Franc",
+          "email": "dev@didierfranc.com"
+        },
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "9b127f0e78b0fd7f745454764f63e90c",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-sitemap": {
+      "resolve": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/node_modules/gatsby-plugin-sitemap",
+      "id": "Plugin gatsby-plugin-sitemap",
+      "name": "gatsby-plugin-sitemap",
+      "version": "1.2.25",
+      "pluginOptions": {
+        "plugins": [],
+        "query": "\n            {\n              site {\n                siteMetadata {\n                  url\n                }\n              }\n              allSitePage(\n                filter: {\n                  path: { regex: \"/^(?!/404/|/404.html|/dev-404-page/)/\" }\n                }\n              ) {\n                edges {\n                  node {\n                    path\n                  }\n                }\n              }\n          }",
+        "output": "/sitemap.xml"
+      },
+      "nodeAPIs": [
+        "onPostBuild"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/node_modules/gatsby-plugin-sitemap",
+      "packageJson": {
+        "name": "gatsby-plugin-sitemap",
+        "description": "Gatsby plugin that automatically creates a sitemap for your site",
+        "version": "1.2.25",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Nicholas Young &lt;nicholas@nicholaswyoung.com&gt;"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "minimatch",
+            "version": "^3.0.4"
+          },
+          {
+            "name": "sitemap",
+            "version": "^1.12.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "a56a5d0b70173495545b2b993e6b5d98",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-offline": {
+      "resolve": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/node_modules/gatsby-plugin-offline",
+      "id": "Plugin gatsby-plugin-offline",
+      "name": "gatsby-plugin-offline",
+      "version": "1.0.18",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages",
+        "onPostBuild"
+      ],
+      "browserAPIs": [
+        "registerServiceWorker"
+      ],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/node_modules/gatsby-plugin-offline",
+      "packageJson": {
+        "name": "gatsby-plugin-offline",
+        "description": "Gatsby plugin which sets up a site to be able to run offline",
+        "version": "1.0.18",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "offline",
+          "precache",
+          "service-worker"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "sw-precache",
+            "version": "^5.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "1522fedec3da823a182ef3214e7f0a97",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-catch-links": {
+      "resolve": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/node_modules/gatsby-plugin-catch-links",
+      "id": "Plugin gatsby-plugin-catch-links",
+      "name": "gatsby-plugin-catch-links",
+      "version": "1.0.24",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [
+        "onClientEntry"
+      ],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/node_modules/gatsby-plugin-catch-links",
+      "packageJson": {
+        "name": "gatsby-plugin-catch-links",
+        "description": "Intercepts local links from markdown and other non-react pages and does a client-side pushState to avoid the browser having to refresh the page.",
+        "version": "1.0.24",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "e9f2d5d7873c08c71bff3adcbbf289ad",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-react-helmet": {
+      "resolve": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/node_modules/gatsby-plugin-react-helmet",
+      "id": "Plugin gatsby-plugin-react-helmet",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "2.0.11",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
+        "version": "2.0.11",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "react-helmet",
+          "seo",
+          "document",
+          "head",
+          "title",
+          "meta",
+          "link",
+          "script",
+          "base",
+          "noscript",
+          "style"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "matthews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "react-helmet",
+            "version": ">=5.1.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "8d23090d575a6c64ce914f73dc645c36",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-postcss-sass": {
+      "resolve": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/node_modules/gatsby-plugin-postcss-sass",
+      "id": "Plugin gatsby-plugin-postcss-sass",
+      "name": "gatsby-plugin-postcss-sass",
+      "version": "1.0.22",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "modifyWebpackConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/node_modules/gatsby-plugin-postcss-sass",
+      "packageJson": {
+        "name": "gatsby-plugin-postcss-sass",
+        "description": "Gatsby plugin to handle scss/sass files with integrated support for also processing with Postcss plugins",
+        "version": "1.0.22",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "postcss",
+          "sass",
+          "scss"
+        ],
+        "author": {
+          "name": "Scotty Eckenthal",
+          "email": "scotty@meetfabric.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "gatsby-1-config-css-modules",
+            "version": "^1.0.11"
+          },
+          {
+            "name": "gatsby-1-config-extract-plugin",
+            "version": "^1.0.3"
+          },
+          {
+            "name": "node-sass",
+            "version": "^4.5.2"
+          },
+          {
+            "name": "sass-loader",
+            "version": "^4.1.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "3402be5773f53289a2ff5ddf7ead8c24",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin default-site-plugin": {
+      "resolve": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source",
+      "id": "Plugin default-site-plugin",
+      "name": "default-site-plugin",
+      "version": "c951c77a8375034f00efc10119c93174",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages",
+        "onCreateNode",
+        "modifyWebpackConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source",
+      "packageJson": {
+        "name": "gatsby-starter-lumen",
+        "description": "Simple starter for Gatsby",
+        "version": "2.0.2",
+        "main": "n/a",
+        "keywords": [
+          "gatsby",
+          "blog",
+          "react",
+          "theme",
+          "starter"
+        ],
+        "author": "Alexander Shelepenok <alxshelepenok@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.9.164"
+          },
+          {
+            "name": "gatsby-link",
+            "version": "^1.6.34"
+          },
+          {
+            "name": "gatsby-plugin-catch-links",
+            "version": "^1.0.14"
+          },
+          {
+            "name": "gatsby-plugin-feed",
+            "version": "^1.3.15"
+          },
+          {
+            "name": "gatsby-plugin-google-analytics",
+            "version": "^1.0.15"
+          },
+          {
+            "name": "gatsby-plugin-offline",
+            "version": "^1.0.12"
+          },
+          {
+            "name": "gatsby-plugin-postcss-sass",
+            "version": "^1.0.15"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^2.0.3"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^1.6.25"
+          },
+          {
+            "name": "gatsby-plugin-sitemap",
+            "version": "^1.2.10"
+          },
+          {
+            "name": "gatsby-remark-copy-linked-files",
+            "version": "^1.5.25"
+          },
+          {
+            "name": "gatsby-remark-images",
+            "version": "^1.5.37"
+          },
+          {
+            "name": "gatsby-remark-prismjs",
+            "version": "^1.2.12"
+          },
+          {
+            "name": "gatsby-remark-responsive-iframe",
+            "version": "^1.4.16"
+          },
+          {
+            "name": "gatsby-remark-smartypants",
+            "version": "^1.4.10"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^1.5.11"
+          },
+          {
+            "name": "gatsby-transformer-remark",
+            "version": "^1.7.28"
+          },
+          {
+            "name": "gatsby-transformer-sharp",
+            "version": "^1.6.16"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.1"
+          },
+          {
+            "name": "react",
+            "version": "^15.6.1"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.2.0"
+          },
+          {
+            "name": "react-disqus-comments",
+            "version": "^1.1.1"
+          },
+          {
+            "name": "gatsby-plugin-google-fonts",
+            "version": "latest"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "eslint",
+            "version": "^4.14.0"
+          },
+          {
+            "name": "eslint-config-airbnb",
+            "version": "^16.1.0"
+          },
+          {
+            "name": "eslint-plugin-import",
+            "version": "^2.8.0"
+          },
+          {
+            "name": "eslint-plugin-jsx-a11y",
+            "version": "^6.0.3"
+          },
+          {
+            "name": "eslint-plugin-react",
+            "version": "^7.5.1"
+          },
+          {
+            "name": "babel-eslint",
+            "version": "^8.2.1"
+          },
+          {
+            "name": "gh-pages",
+            "version": "^1.1.0"
+          },
+          {
+            "name": "lost",
+            "version": "^8.2.0"
+          },
+          {
+            "name": "postcss-pxtorem",
+            "version": "^4.0.1"
+          },
+          {
+            "name": "prettier",
+            "version": "^1.10.2"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "7d75f5d7cbc1693b3c7712d0b4fba2ca",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-page-creator": {
+      "resolve": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/node_modules/gatsby-plugin-page-creator",
+      "id": "Plugin gatsby-plugin-page-creator",
+      "name": "gatsby-plugin-page-creator",
+      "version": "1.0.1",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages",
+        "pathCheck": false
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/node_modules/gatsby-plugin-page-creator",
+      "packageJson": {
+        "name": "gatsby-plugin-page-creator",
+        "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
+        "version": "1.0.1",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "glob",
+            "version": "^7.1.1"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "parse-filepath",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "b007d29aab162a185b7aa51a01d4beb8",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "url": "https://lumen.netlify.com",
+        "title": "Blog by Ciprian Turcu",
+        "subtitle": "Software Developer",
+        "copyright": "© All rights reserved.",
+        "disqusShortname": "",
+        "menu": [
+          {
+            "label": "Articles",
+            "path": "/"
+          },
+          {
+            "label": "About me",
+            "path": "/about/"
+          },
+          {
+            "label": "Contact me",
+            "path": "/contact/"
+          }
+        ],
+        "author": {
+          "name": "Ciprian Turcu",
+          "email": "turcuciprian1@gmail.com",
+          "telegram": "#",
+          "twitter": "turcuciprian",
+          "github": "turcuciprian",
+          "rss": "#",
+          "vk": "#"
+        }
+      },
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2018-06-28T22:13:59.496Z",
+      "id": "Site",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "f8a1f571ea9b5a7c1b79ebe39664d304",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages absPath of file": {
+      "id": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "745a12c296ff95cb50d2a880e82712b0",
+        "type": "Directory",
+        "description": "Directory \"src/pages\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages",
+      "relativePath": "",
+      "extension": "",
+      "size": 352,
+      "prettySize": "352 B",
+      "modifiedTime": "2018-06-28T21:50:12.564Z",
+      "accessTime": "2018-06-28T22:14:03.388Z",
+      "changeTime": "2018-06-28T21:54:14.052Z",
+      "birthTime": "2018-06-27T21:40:15.646Z",
+      "root": "/",
+      "dir": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src",
+      "base": "pages",
+      "ext": "",
+      "name": "pages",
+      "relativeDirectory": "..",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 11,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8594140433,
+      "blocks": 0,
+      "atimeMs": 1530224043387.6921,
+      "mtimeMs": 1530222612564.321,
+      "ctimeMs": 1530222854052.4346,
+      "birthtimeMs": 1530135615645.9285,
+      "atime": "2018-06-28T22:14:03.388Z",
+      "mtime": "2018-06-28T21:50:12.564Z",
+      "ctime": "2018-06-28T21:54:14.052Z",
+      "birthtime": "2018-06-27T21:40:15.646Z"
+    },
+    "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles absPath of file": {
+      "id": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "b50fb7b87fd2fef5bff81e798bec4b84",
+        "type": "Directory",
+        "description": "Directory \"src/pages/articles\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles",
+      "relativePath": "articles",
+      "extension": "",
+      "size": 224,
+      "prettySize": "224 B",
+      "modifiedTime": "2018-06-28T22:08:38.963Z",
+      "accessTime": "2018-06-28T22:14:03.404Z",
+      "changeTime": "2018-06-28T22:08:38.963Z",
+      "birthTime": "2018-06-27T21:40:15.647Z",
+      "root": "/",
+      "dir": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages",
+      "base": "articles",
+      "ext": "",
+      "name": "articles",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 7,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8594140437,
+      "blocks": 0,
+      "atimeMs": 1530224043403.7065,
+      "mtimeMs": 1530223718963.3076,
+      "ctimeMs": 1530223718963.3076,
+      "birthtimeMs": 1530135615646.509,
+      "atime": "2018-06-28T22:14:03.404Z",
+      "mtime": "2018-06-28T22:08:38.963Z",
+      "ctime": "2018-06-28T22:08:38.963Z",
+      "birthtime": "2018-06-27T21:40:15.647Z"
+    },
+    "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/pages absPath of file": {
+      "id": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/pages absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "50acbc187f90fe3d6a417f0710fff61a",
+        "type": "Directory",
+        "description": "Directory \"src/pages/pages\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/pages",
+      "relativePath": "pages",
+      "extension": "",
+      "size": 128,
+      "prettySize": "128 B",
+      "modifiedTime": "2018-06-27T21:40:15.789Z",
+      "accessTime": "2018-06-28T22:14:03.404Z",
+      "changeTime": "2018-06-28T21:54:14.052Z",
+      "birthTime": "2018-06-27T21:40:15.754Z",
+      "root": "/",
+      "dir": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages",
+      "base": "pages",
+      "ext": "",
+      "name": "pages",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 4,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8594140461,
+      "blocks": 0,
+      "atimeMs": 1530224043403.6697,
+      "mtimeMs": 1530135615788.601,
+      "ctimeMs": 1530222854052.3606,
+      "birthtimeMs": 1530135615754.0378,
+      "atime": "2018-06-28T22:14:03.404Z",
+      "mtime": "2018-06-27T21:40:15.789Z",
+      "ctime": "2018-06-28T21:54:14.052Z",
+      "birthtime": "2018-06-27T21:40:15.754Z"
+    },
+    "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/pages/2015-05-01---about absPath of file": {
+      "id": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/pages/2015-05-01---about absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "f1d2882d44e4d7198441396754aace52",
+        "type": "Directory",
+        "description": "Directory \"src/pages/pages/2015-05-01---about\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/pages/2015-05-01---about",
+      "relativePath": "pages/2015-05-01---about",
+      "extension": "",
+      "size": 128,
+      "prettySize": "128 B",
+      "modifiedTime": "2018-06-27T21:40:15.788Z",
+      "accessTime": "2018-06-28T22:14:03.433Z",
+      "changeTime": "2018-06-28T21:54:14.052Z",
+      "birthTime": "2018-06-27T21:40:15.754Z",
+      "root": "/",
+      "dir": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/pages",
+      "base": "2015-05-01---about",
+      "ext": "",
+      "name": "2015-05-01---about",
+      "relativeDirectory": "pages",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 4,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8594140465,
+      "blocks": 0,
+      "atimeMs": 1530224043432.9797,
+      "mtimeMs": 1530135615788.2488,
+      "ctimeMs": 1530222854052.2825,
+      "birthtimeMs": 1530135615754.1274,
+      "atime": "2018-06-28T22:14:03.433Z",
+      "mtime": "2018-06-27T21:40:15.788Z",
+      "ctime": "2018-06-28T21:54:14.052Z",
+      "birthtime": "2018-06-27T21:40:15.754Z"
+    },
+    "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/pages/2015-05-01---contact absPath of file": {
+      "id": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/pages/2015-05-01---contact absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "2f4128814f981d963ce29acc76a363e6",
+        "type": "Directory",
+        "description": "Directory \"src/pages/pages/2015-05-01---contact\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/pages/2015-05-01---contact",
+      "relativePath": "pages/2015-05-01---contact",
+      "extension": "",
+      "size": 128,
+      "prettySize": "128 B",
+      "modifiedTime": "2018-06-27T21:40:15.800Z",
+      "accessTime": "2018-06-28T22:14:03.433Z",
+      "changeTime": "2018-06-28T21:54:14.048Z",
+      "birthTime": "2018-06-27T21:40:15.789Z",
+      "root": "/",
+      "dir": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/pages",
+      "base": "2015-05-01---contact",
+      "ext": "",
+      "name": "2015-05-01---contact",
+      "relativeDirectory": "pages",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 4,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8594140462,
+      "blocks": 0,
+      "atimeMs": 1530224043433.078,
+      "mtimeMs": 1530135615800.1384,
+      "ctimeMs": 1530222854047.6616,
+      "birthtimeMs": 1530135615788.5876,
+      "atime": "2018-06-28T22:14:03.433Z",
+      "mtime": "2018-06-27T21:40:15.800Z",
+      "ctime": "2018-06-28T21:54:14.048Z",
+      "birthtime": "2018-06-27T21:40:15.789Z"
+    },
+    "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/.DS_Store absPath of file": {
+      "id": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/.DS_Store absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "8153c9984b4f1575a1bdbc3140fd26e4",
+        "mediaType": "application/octet-stream",
+        "type": "File",
+        "description": "File \"src/pages/.DS_Store\"",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/.DS_Store",
+      "relativePath": ".DS_Store",
+      "extension": "",
+      "size": 6148,
+      "prettySize": "6.15 kB",
+      "modifiedTime": "2018-06-27T21:40:33.771Z",
+      "accessTime": "2018-06-28T21:51:09.174Z",
+      "changeTime": "2018-06-28T21:54:13.988Z",
+      "birthTime": "2018-06-27T21:40:33.770Z",
+      "root": "/",
+      "dir": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages",
+      "base": ".DS_Store",
+      "ext": "",
+      "name": ".DS_Store",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8594140434,
+      "blocks": 16,
+      "atimeMs": 1530222669174.2756,
+      "mtimeMs": 1530135633771.082,
+      "ctimeMs": 1530222853988.0771,
+      "birthtimeMs": 1530135633770.4138,
+      "atime": "2018-06-28T21:51:09.174Z",
+      "mtime": "2018-06-27T21:40:33.771Z",
+      "ctime": "2018-06-28T21:54:13.988Z",
+      "birthtime": "2018-06-27T21:40:33.770Z",
+      "fields": {
+        "slug": "/undefined/"
+      }
+    },
+    "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/404.jsx absPath of file": {
+      "id": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/404.jsx absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "b32ddb0a02aa0657e89ebf16eb7d8a8f",
+        "mediaType": "text/jsx",
+        "type": "File",
+        "description": "File \"src/pages/404.jsx\"",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/404.jsx",
+      "relativePath": "404.jsx",
+      "extension": "jsx",
+      "size": 973,
+      "prettySize": "973 B",
+      "modifiedTime": "2018-06-27T21:40:15.646Z",
+      "accessTime": "2018-06-28T22:05:44.553Z",
+      "changeTime": "2018-06-28T21:54:14.041Z",
+      "birthTime": "2018-06-27T21:40:15.646Z",
+      "root": "/",
+      "dir": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages",
+      "base": "404.jsx",
+      "ext": ".jsx",
+      "name": "404",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8594140459,
+      "blocks": 8,
+      "atimeMs": 1530223544553.0984,
+      "mtimeMs": 1530135615646.2896,
+      "ctimeMs": 1530222854040.5815,
+      "birthtimeMs": 1530135615646.0684,
+      "atime": "2018-06-28T22:05:44.553Z",
+      "mtime": "2018-06-27T21:40:15.646Z",
+      "ctime": "2018-06-28T21:54:14.041Z",
+      "birthtime": "2018-06-27T21:40:15.646Z",
+      "fields": {
+        "slug": "/undefined/"
+      }
+    },
+    "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/categories.jsx absPath of file": {
+      "id": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/categories.jsx absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "a28203331f396563d3aef95803b999c1",
+        "mediaType": "text/jsx",
+        "type": "File",
+        "description": "File \"src/pages/categories.jsx\"",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/categories.jsx",
+      "relativePath": "categories.jsx",
+      "extension": "jsx",
+      "size": 1969,
+      "prettySize": "1.97 kB",
+      "modifiedTime": "2018-06-27T21:40:15.753Z",
+      "accessTime": "2018-06-28T22:05:44.553Z",
+      "changeTime": "2018-06-28T21:54:13.993Z",
+      "birthTime": "2018-06-27T21:40:15.753Z",
+      "root": "/",
+      "dir": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages",
+      "base": "categories.jsx",
+      "ext": ".jsx",
+      "name": "categories",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8594140436,
+      "blocks": 8,
+      "atimeMs": 1530223544553.0125,
+      "mtimeMs": 1530135615753.0732,
+      "ctimeMs": 1530222853993.3423,
+      "birthtimeMs": 1530135615752.8376,
+      "atime": "2018-06-28T22:05:44.553Z",
+      "mtime": "2018-06-27T21:40:15.753Z",
+      "ctime": "2018-06-28T21:54:13.993Z",
+      "birthtime": "2018-06-27T21:40:15.753Z",
+      "fields": {
+        "slug": "/undefined/"
+      }
+    },
+    "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/index.jsx absPath of file": {
+      "id": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/index.jsx absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "52db30302f3524d862b987fb01c721ec",
+        "mediaType": "text/jsx",
+        "type": "File",
+        "description": "File \"src/pages/index.jsx\"",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/index.jsx",
+      "relativePath": "index.jsx",
+      "extension": "jsx",
+      "size": 1617,
+      "prettySize": "1.62 kB",
+      "modifiedTime": "2018-06-28T21:42:14.837Z",
+      "accessTime": "2018-06-28T22:05:44.553Z",
+      "changeTime": "2018-06-28T21:54:14.042Z",
+      "birthTime": "2018-06-27T21:40:15.753Z",
+      "root": "/",
+      "dir": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages",
+      "base": "index.jsx",
+      "ext": ".jsx",
+      "name": "index",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8594140460,
+      "blocks": 8,
+      "atimeMs": 1530223544553.0068,
+      "mtimeMs": 1530222134836.8335,
+      "ctimeMs": 1530222854042.3787,
+      "birthtimeMs": 1530135615753.2708,
+      "atime": "2018-06-28T22:05:44.553Z",
+      "mtime": "2018-06-28T21:42:14.837Z",
+      "ctime": "2018-06-28T21:54:14.042Z",
+      "birthtime": "2018-06-27T21:40:15.753Z",
+      "fields": {
+        "slug": "/undefined/"
+      }
+    },
+    "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/photo.jpg absPath of file": {
+      "id": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/photo.jpg absPath of file",
+      "children": [
+        "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/photo.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "900208a9ea5287932326e81adf4e1d9c",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "description": "File \"src/pages/photo.jpg\"",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/photo.jpg",
+      "relativePath": "photo.jpg",
+      "extension": "jpg",
+      "size": 35103,
+      "prettySize": "35.1 kB",
+      "modifiedTime": "2018-06-28T21:50:12.564Z",
+      "accessTime": "2018-06-28T22:05:44.553Z",
+      "changeTime": "2018-06-28T21:54:14.039Z",
+      "birthTime": "2018-06-28T21:50:00.133Z",
+      "root": "/",
+      "dir": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages",
+      "base": "photo.jpg",
+      "ext": ".jpg",
+      "name": "photo",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8594140458,
+      "blocks": 72,
+      "atimeMs": 1530223544552.9788,
+      "mtimeMs": 1530222612564,
+      "ctimeMs": 1530222854038.5107,
+      "birthtimeMs": 1530222600132.5413,
+      "atime": "2018-06-28T22:05:44.553Z",
+      "mtime": "2018-06-28T21:50:12.564Z",
+      "ctime": "2018-06-28T21:54:14.039Z",
+      "birthtime": "2018-06-28T21:50:00.133Z",
+      "fields": {
+        "slug": "/undefined/"
+      }
+    },
+    "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/tags.jsx absPath of file": {
+      "id": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/tags.jsx absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "91f48f06eab29bde3fb9f056467b5094",
+        "mediaType": "text/jsx",
+        "type": "File",
+        "description": "File \"src/pages/tags.jsx\"",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/tags.jsx",
+      "relativePath": "tags.jsx",
+      "extension": "jsx",
+      "size": 1868,
+      "prettySize": "1.87 kB",
+      "modifiedTime": "2018-06-27T21:40:15.801Z",
+      "accessTime": "2018-06-28T22:05:44.553Z",
+      "changeTime": "2018-06-28T21:54:13.990Z",
+      "birthTime": "2018-06-27T21:40:15.801Z",
+      "root": "/",
+      "dir": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages",
+      "base": "tags.jsx",
+      "ext": ".jsx",
+      "name": "tags",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8594140435,
+      "blocks": 8,
+      "atimeMs": 1530223544552.9656,
+      "mtimeMs": 1530135615800.7183,
+      "ctimeMs": 1530222853990.307,
+      "birthtimeMs": 1530135615800.5999,
+      "atime": "2018-06-28T22:05:44.553Z",
+      "mtime": "2018-06-27T21:40:15.801Z",
+      "ctime": "2018-06-28T21:54:13.990Z",
+      "birthtime": "2018-06-27T21:40:15.801Z",
+      "fields": {
+        "slug": "/undefined/"
+      }
+    },
+    "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/pages/2015-05-01---about/index.md absPath of file": {
+      "id": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/pages/2015-05-01---about/index.md absPath of file",
+      "children": [
+        "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/pages/2015-05-01---about/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "4447f11af2bbde463584886673626847",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "description": "File \"src/pages/pages/2015-05-01---about/index.md\"",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/pages/2015-05-01---about/index.md",
+      "relativePath": "pages/2015-05-01---about/index.md",
+      "extension": "md",
+      "size": 547,
+      "prettySize": "547 B",
+      "modifiedTime": "2018-06-28T21:37:13.967Z",
+      "accessTime": "2018-06-28T22:05:44.553Z",
+      "changeTime": "2018-06-28T21:54:14.050Z",
+      "birthTime": "2018-06-27T21:40:15.788Z",
+      "root": "/",
+      "dir": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/pages/2015-05-01---about",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "pages/2015-05-01---about",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8594140466,
+      "blocks": 8,
+      "atimeMs": 1530223544552.996,
+      "mtimeMs": 1530221833967.489,
+      "ctimeMs": 1530222854050.3252,
+      "birthtimeMs": 1530135615788.2332,
+      "atime": "2018-06-28T22:05:44.553Z",
+      "mtime": "2018-06-28T21:37:13.967Z",
+      "ctime": "2018-06-28T21:54:14.050Z",
+      "birthtime": "2018-06-27T21:40:15.788Z",
+      "fields": {
+        "slug": "/about/"
+      }
+    },
+    "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/.DS_Store absPath of file": {
+      "id": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/.DS_Store absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "a56e856dd7be0eab4abb00940cd905e0",
+        "mediaType": "application/octet-stream",
+        "type": "File",
+        "description": "File \"src/pages/articles/.DS_Store\"",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/.DS_Store",
+      "relativePath": "articles/.DS_Store",
+      "extension": "",
+      "size": 8196,
+      "prettySize": "8.2 kB",
+      "modifiedTime": "2018-06-27T21:40:33.768Z",
+      "accessTime": "2018-06-27T21:40:33.752Z",
+      "changeTime": "2018-06-28T21:54:13.997Z",
+      "birthTime": "2018-06-27T21:40:33.752Z",
+      "root": "/",
+      "dir": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles",
+      "base": ".DS_Store",
+      "ext": "",
+      "name": ".DS_Store",
+      "relativeDirectory": "articles",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8594140438,
+      "blocks": 24,
+      "atimeMs": 1530135633751.7861,
+      "mtimeMs": 1530135633768.4692,
+      "ctimeMs": 1530222853996.9026,
+      "birthtimeMs": 1530135633751.7861,
+      "atime": "2018-06-27T21:40:33.752Z",
+      "mtime": "2018-06-27T21:40:33.768Z",
+      "ctime": "2018-06-28T21:54:13.997Z",
+      "birthtime": "2018-06-27T21:40:33.752Z",
+      "fields": {
+        "slug": "/undefined/"
+      }
+    },
+    "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/pages/2015-05-01---contact/index.md absPath of file": {
+      "id": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/pages/2015-05-01---contact/index.md absPath of file",
+      "children": [
+        "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/pages/2015-05-01---contact/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "0c05b1aaffb96c6a78e243c8d576a18f",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "description": "File \"src/pages/pages/2015-05-01---contact/index.md\"",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/pages/2015-05-01---contact/index.md",
+      "relativePath": "pages/2015-05-01---contact/index.md",
+      "extension": "md",
+      "size": 562,
+      "prettySize": "562 B",
+      "modifiedTime": "2018-06-28T21:46:56.665Z",
+      "accessTime": "2018-06-28T22:05:44.553Z",
+      "changeTime": "2018-06-28T21:54:14.046Z",
+      "birthTime": "2018-06-27T21:40:15.800Z",
+      "root": "/",
+      "dir": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/pages/2015-05-01---contact",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "pages/2015-05-01---contact",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8594140463,
+      "blocks": 8,
+      "atimeMs": 1530223544552.9841,
+      "mtimeMs": 1530222416665.2222,
+      "ctimeMs": 1530222854045.5754,
+      "birthtimeMs": 1530135615800.1296,
+      "atime": "2018-06-28T22:05:44.553Z",
+      "mtime": "2018-06-28T21:46:56.665Z",
+      "ctime": "2018-06-28T21:54:14.046Z",
+      "birthtime": "2018-06-27T21:40:15.800Z",
+      "fields": {
+        "slug": "/contact/"
+      }
+    },
+    "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/photo.png absPath of file": {
+      "id": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/photo.png absPath of file",
+      "children": [
+        "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/photo.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "850047f05398a027d3bc642f3ed856e8",
+        "mediaType": "image/png",
+        "type": "File",
+        "description": "File \"src/pages/photo.png\"",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/photo.png",
+      "relativePath": "photo.png",
+      "extension": "png",
+      "size": 78100,
+      "prettySize": "78.1 kB",
+      "modifiedTime": "2018-06-28T21:49:36.754Z",
+      "accessTime": "2018-06-28T22:05:44.553Z",
+      "changeTime": "2018-06-28T21:54:14.036Z",
+      "birthTime": "2018-06-28T21:49:36.751Z",
+      "root": "/",
+      "dir": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages",
+      "base": "photo.png",
+      "ext": ".png",
+      "name": "photo",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8594140457,
+      "blocks": 160,
+      "atimeMs": 1530223544552.9724,
+      "mtimeMs": 1530222576754.286,
+      "ctimeMs": 1530222854036.283,
+      "birthtimeMs": 1530222576751.3071,
+      "atime": "2018-06-28T22:05:44.553Z",
+      "mtime": "2018-06-28T21:49:36.754Z",
+      "ctime": "2018-06-28T21:54:14.036Z",
+      "birthtime": "2018-06-28T21:49:36.751Z",
+      "fields": {
+        "slug": "/undefined/"
+      }
+    },
+    "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/photo.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/photo.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/photo.jpg absPath of file",
+      "internal": {
+        "contentDigest": "900208a9ea5287932326e81adf4e1d9c",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/photo.png absPath of file >> ImageSharp": {
+      "id": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/photo.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/photo.png absPath of file",
+      "internal": {
+        "contentDigest": "850047f05398a027d3bc642f3ed856e8",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/pages/2015-05-01---about/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/pages/2015-05-01---about/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/pages/2015-05-01---about/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: \"About me\"\nlayout: page\npath: \"/about\"\n---\n\nI am a relatively young software developer from romania. 31 years when I wrote this post. My expertise is mostly web development: javascript, html, css, jQuery, Angularjs, React\n\n![Image](./1.jpg)\n\n*I like to study and discover stuff that I don't know. Sounds cliche-ish but it's actually a very good pattern to follow strictly*\n\nI live in Cluj Napoca, Romania and my goal is to discover and build useful things. Vague, I know, but there is no definition in my head of what that is. So far...",
+        "type": "MarkdownRemark",
+        "contentDigest": "3e2a5b23b63cceb4125e61cbe4f71d39",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "About me",
+        "layout": "page",
+        "path": "/about",
+        "_PARENT": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/pages/2015-05-01---about/index.md absPath of file",
+        "parent": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/pages/2015-05-01---about/index.md absPath of file"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nI am a relatively young software developer from romania. 31 years when I wrote this post. My expertise is mostly web development: javascript, html, css, jQuery, Angularjs, React\n\n![Image](./1.jpg)\n\n*I like to study and discover stuff that I don't know. Sounds cliche-ish but it's actually a very good pattern to follow strictly*\n\nI live in Cluj Napoca, Romania and my goal is to discover and build useful things. Vague, I know, but there is no definition in my head of what that is. So far...",
+      "fileAbsolutePath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/pages/2015-05-01---about/index.md",
+      "fields": {
+        "slug": "/about"
+      }
+    },
+    "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/pages/2015-05-01---contact/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/pages/2015-05-01---contact/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/pages/2015-05-01---contact/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: \"Contact me\"\nlayout: page\npath: \"/contact\"\n---\n\nYou are welcomed to contact me and ask me anything.\n\n![Image](./1.jpg)\n\n*The best way to do that , nowadays is trough social media. You can follow me on twitter, mention me or DM me and we can carry on from there.*\n\n## Social Media?\n\nShouldn't be hard to track. https://twitter.com/turcuciprian\n\nAll the best things online happened to me on twitter. Contact me there.\n\nThere are other places on this site you can use to contact me with. If you really really want to talk to me, your job is to find them.",
+        "type": "MarkdownRemark",
+        "contentDigest": "e8452e8df3e17f772b18a1a62e8e6e70",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Contact me",
+        "layout": "page",
+        "path": "/contact",
+        "_PARENT": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/pages/2015-05-01---contact/index.md absPath of file",
+        "parent": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/pages/2015-05-01---contact/index.md absPath of file"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nYou are welcomed to contact me and ask me anything.\n\n![Image](./1.jpg)\n\n*The best way to do that , nowadays is trough social media. You can follow me on twitter, mention me or DM me and we can carry on from there.*\n\n## Social Media?\n\nShouldn't be hard to track. https://twitter.com/turcuciprian\n\nAll the best things online happened to me on twitter. Contact me there.\n\nThere are other places on this site you can use to contact me with. If you really really want to talk to me, your job is to find them.",
+      "fileAbsolutePath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/pages/2015-05-01---contact/index.md",
+      "fields": {
+        "slug": "/contact"
+      }
+    },
+    "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/pages/2015-05-01---contact/1.jpg absPath of file": {
+      "id": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/pages/2015-05-01---contact/1.jpg absPath of file",
+      "children": [
+        "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/pages/2015-05-01---contact/1.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "35ada4f3162edeb1db749f62065a99da",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "description": "File \"src/pages/pages/2015-05-01---contact/1.jpg\"",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/pages/2015-05-01---contact/1.jpg",
+      "relativePath": "pages/2015-05-01---contact/1.jpg",
+      "extension": "jpg",
+      "size": 738279,
+      "prettySize": "738 kB",
+      "modifiedTime": "2018-06-27T21:40:15.800Z",
+      "accessTime": "2018-06-28T22:05:44.553Z",
+      "changeTime": "2018-06-28T21:54:14.048Z",
+      "birthTime": "2018-06-27T21:40:15.789Z",
+      "root": "/",
+      "dir": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/pages/2015-05-01---contact",
+      "base": "1.jpg",
+      "ext": ".jpg",
+      "name": "1",
+      "relativeDirectory": "pages/2015-05-01---contact",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8594140464,
+      "blocks": 1448,
+      "atimeMs": 1530223544552.9902,
+      "mtimeMs": 1530135615799.908,
+      "ctimeMs": 1530222854047.5364,
+      "birthtimeMs": 1530135615788.7134,
+      "atime": "2018-06-28T22:05:44.553Z",
+      "mtime": "2018-06-27T21:40:15.800Z",
+      "ctime": "2018-06-28T21:54:14.048Z",
+      "birthtime": "2018-06-27T21:40:15.789Z",
+      "fields": {
+        "slug": "/contact/"
+      }
+    },
+    "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/pages/2015-05-01---contact/1.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/pages/2015-05-01---contact/1.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/pages/2015-05-01---contact/1.jpg absPath of file",
+      "internal": {
+        "contentDigest": "35ada4f3162edeb1db749f62065a99da",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/pages/2015-05-01---about/1.jpg absPath of file": {
+      "id": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/pages/2015-05-01---about/1.jpg absPath of file",
+      "children": [
+        "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/pages/2015-05-01---about/1.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "60fea4c6e45ceda49cc13c40965ddef4",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "description": "File \"src/pages/pages/2015-05-01---about/1.jpg\"",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/pages/2015-05-01---about/1.jpg",
+      "relativePath": "pages/2015-05-01---about/1.jpg",
+      "extension": "jpg",
+      "size": 2880631,
+      "prettySize": "2.88 MB",
+      "modifiedTime": "2018-06-27T21:40:15.787Z",
+      "accessTime": "2018-06-28T22:05:44.553Z",
+      "changeTime": "2018-06-28T21:54:14.052Z",
+      "birthTime": "2018-06-27T21:40:15.754Z",
+      "root": "/",
+      "dir": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/pages/2015-05-01---about",
+      "base": "1.jpg",
+      "ext": ".jpg",
+      "name": "1",
+      "relativeDirectory": "pages/2015-05-01---about",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8594140467,
+      "blocks": 5632,
+      "atimeMs": 1530223544553.0017,
+      "mtimeMs": 1530135615787.2983,
+      "ctimeMs": 1530222854052.2017,
+      "birthtimeMs": 1530135615754.2383,
+      "atime": "2018-06-28T22:05:44.553Z",
+      "mtime": "2018-06-27T21:40:15.787Z",
+      "ctime": "2018-06-28T21:54:14.052Z",
+      "birthtime": "2018-06-27T21:40:15.754Z",
+      "fields": {
+        "slug": "/about/"
+      }
+    },
+    "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/pages/2015-05-01---about/1.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/pages/2015-05-01---about/1.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/pages/2015-05-01---about/1.jpg absPath of file",
+      "internal": {
+        "contentDigest": "60fea4c6e45ceda49cc13c40965ddef4",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-19 absPath of file": {
+      "id": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-19 absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "560627f995ded35e0f61987b254554f7",
+        "type": "Directory",
+        "description": "Directory \"src/pages/articles/2017-03-19\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-19",
+      "relativePath": "articles/2017-03-19",
+      "extension": "",
+      "size": 128,
+      "prettySize": "128 B",
+      "modifiedTime": "2018-06-27T21:40:15.658Z",
+      "accessTime": "2018-06-28T22:14:03.433Z",
+      "changeTime": "2018-06-28T22:07:10.189Z",
+      "birthTime": "2018-06-27T21:40:15.647Z",
+      "root": "/",
+      "dir": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles",
+      "base": "2017-03-19",
+      "ext": "",
+      "name": "2017-03-19",
+      "relativeDirectory": "articles",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 4,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8594140442,
+      "blocks": 0,
+      "atimeMs": 1530224043433.1895,
+      "mtimeMs": 1530135615657.9402,
+      "ctimeMs": 1530223630188.6748,
+      "birthtimeMs": 1530135615646.61,
+      "atime": "2018-06-28T22:14:03.433Z",
+      "mtime": "2018-06-27T21:40:15.658Z",
+      "ctime": "2018-06-28T22:07:10.189Z",
+      "birthtime": "2018-06-27T21:40:15.647Z"
+    },
+    "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-19/index.md absPath of file": {
+      "id": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-19/index.md absPath of file",
+      "children": [
+        "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-19/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "4bbad619ec3b1bc3f3e4e1223364b35a",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "description": "File \"src/pages/articles/2017-03-19/index.md\"",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-19/index.md",
+      "relativePath": "articles/2017-03-19/index.md",
+      "extension": "md",
+      "size": 4303,
+      "prettySize": "4.3 kB",
+      "modifiedTime": "2018-06-28T21:32:38.714Z",
+      "accessTime": "2018-06-28T22:07:10.294Z",
+      "changeTime": "2018-06-28T21:54:14.007Z",
+      "birthTime": "2018-06-27T21:40:15.658Z",
+      "root": "/",
+      "dir": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-19",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "articles/2017-03-19",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8594140443,
+      "blocks": 16,
+      "atimeMs": 1530223630294.4512,
+      "mtimeMs": 1530221558714.2139,
+      "ctimeMs": 1530222854006.6248,
+      "birthtimeMs": 1530135615657.9268,
+      "atime": "2018-06-28T22:07:10.294Z",
+      "mtime": "2018-06-28T21:32:38.714Z",
+      "ctime": "2018-06-28T21:54:14.007Z",
+      "birthtime": "2018-06-27T21:40:15.658Z",
+      "fields": {
+        "slug": "/undefined/"
+      }
+    },
+    "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-19/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-19/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-19/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: Welcome to my site\ndate: \"2017-03-19T17:22:27+02:00\"\nlayout: post\ndraft: false\npath: \"/posts/welcome-to-my-site/\"\ncategory: \"welcome\"\ntags:\n  - \"welcome\"\n  - \"Introduction\"\ndescription: \"First post on this site. An introduction.\"\n---\n\n\nThis is my new website where I will keep updates of my progress of everything I do, here.\n\nI must warn you, I do change really fast, you'll see my past examples. I change to evolve, to test, to figure out from my own experience and go to the next level ASAP. I change to get things done. I change to test. I change because , right now, I can.\n\n### For a bit of backstory\n\nI quit my dayjob about 3 weeks ago and am working full time for myself. No projects for clients so far. And I'm not trying to have projects from clients. I'm trying to build my own product and or service. But there's nothing of that either. Yet. I do have some Ideas. I quit because I wanted to do my own stuff, to work on my own dreams, and not somebody else's. I can't say I was't inspired by some books I read. In a cliche-ish way, one that was Steve Job's biography and one that is Elon Musk's biography. Combined, and after some processing time, I had a decision that I made a little over a year ago. Where I decided I was going to quit. But, because I didn't have any resources gathered, I was going to stay for 6 more months. \n\nI ended up staying for 1 year. But here I am now, one year later. With no project, no idea and no clear path to go on. Scary, right? the money is going to run out. Eventually. I'd better get to work. NOW! \n\nThing is, I don't want that to be the motivator for my progress. I have a company now, named ToolAxy One. That's formed from \"tools\" and \"galaxy\". The name came out of the idea that I was going to make on it, a hand full of useful tools. One is there for 2 reasons:\n\n1. To try to make the name unique, to show that it is the first one, the only one.\n2. Because just ToolAxy was taken and is too simple for today's company names.\n\nSo there's the story behind that name.\n\n### What's next?\n\nI was originally a WordPress developer. I worked with and on WordPress for about 10 years now. It was time for a change a while back. But I refused to see that, I wanted to contribute more, to try, to give more, to bring value, to WordPress. I wanted. So I searched for new, more exciting, more capable Software Development oportunities. I studied and tried Swift 3 for iOS 10. You know, the programming language for iphone, iPad, OSX, iWatch? right. The market there is overblown, the competition is fierce and there are limitations created by apple for it's ecosystem. I did not want to make a \"me too\" type of idea and most ideas... well.. there's an app for that. \n\nI gave some time to ReactJS. Don't get me wrong. it's great. Standalone, with nothing. It does it's job well. But if you want to do 2 way data binding, you want to create routes, you want to create a full blown app quick. well, you will have to organize. There is no Quick. there's just a lot of work, you need libraries like Redux that have a ton of components and dependencies for each and every feature. And if one component has an error or is incompatible because of it's version to a modification/feature that is needed. The whole thing crashes and does not work. there needs to be a better organizing path.\n\nOriginally I learned and did a personal project in Angular 1.5.x but later, angular 2 came out of beta. It was weird, did not give it much thought. I am giving it thought now. and I am studying it, planning to make a new project on it. Won't give details about that just yet, but I will as soon as I have something. All that I can say is that this project will need to be finished fast. And I will have a MVP as soon as possible (my target is by 1 April).\n\nSo what I can say for now, is , I'm going all in Angular 2. I'm also going all in to another programming language, but that is for later. Thank you for reading thus far. \n\nI always want more, it's never enough, there's so much information outh there that you can't really settle. Unless you want to be a plain waste of air. Then you should settle. So many people have. Just Fuck, eat, shit and sleep. If that's what your life purpose to be, fine. You have that right. I don't. I want more.\n\nStay tuned for more.\n\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "3aa5bef895f9b30e859980919ca2effd",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin",
+          "tagSlugs": "default-site-plugin",
+          "categorySlug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Welcome to my site",
+        "date": "2017-03-19T17:22:27+02:00",
+        "layout": "post",
+        "draft": false,
+        "path": "/posts/welcome-to-my-site/",
+        "category": "welcome",
+        "tags": [
+          "welcome",
+          "Introduction"
+        ],
+        "description": "First post on this site. An introduction.",
+        "_PARENT": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-19/index.md absPath of file",
+        "parent": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-19/index.md absPath of file"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n\nThis is my new website where I will keep updates of my progress of everything I do, here.\n\nI must warn you, I do change really fast, you'll see my past examples. I change to evolve, to test, to figure out from my own experience and go to the next level ASAP. I change to get things done. I change to test. I change because , right now, I can.\n\n### For a bit of backstory\n\nI quit my dayjob about 3 weeks ago and am working full time for myself. No projects for clients so far. And I'm not trying to have projects from clients. I'm trying to build my own product and or service. But there's nothing of that either. Yet. I do have some Ideas. I quit because I wanted to do my own stuff, to work on my own dreams, and not somebody else's. I can't say I was't inspired by some books I read. In a cliche-ish way, one that was Steve Job's biography and one that is Elon Musk's biography. Combined, and after some processing time, I had a decision that I made a little over a year ago. Where I decided I was going to quit. But, because I didn't have any resources gathered, I was going to stay for 6 more months. \n\nI ended up staying for 1 year. But here I am now, one year later. With no project, no idea and no clear path to go on. Scary, right? the money is going to run out. Eventually. I'd better get to work. NOW! \n\nThing is, I don't want that to be the motivator for my progress. I have a company now, named ToolAxy One. That's formed from \"tools\" and \"galaxy\". The name came out of the idea that I was going to make on it, a hand full of useful tools. One is there for 2 reasons:\n\n1. To try to make the name unique, to show that it is the first one, the only one.\n2. Because just ToolAxy was taken and is too simple for today's company names.\n\nSo there's the story behind that name.\n\n### What's next?\n\nI was originally a WordPress developer. I worked with and on WordPress for about 10 years now. It was time for a change a while back. But I refused to see that, I wanted to contribute more, to try, to give more, to bring value, to WordPress. I wanted. So I searched for new, more exciting, more capable Software Development oportunities. I studied and tried Swift 3 for iOS 10. You know, the programming language for iphone, iPad, OSX, iWatch? right. The market there is overblown, the competition is fierce and there are limitations created by apple for it's ecosystem. I did not want to make a \"me too\" type of idea and most ideas... well.. there's an app for that. \n\nI gave some time to ReactJS. Don't get me wrong. it's great. Standalone, with nothing. It does it's job well. But if you want to do 2 way data binding, you want to create routes, you want to create a full blown app quick. well, you will have to organize. There is no Quick. there's just a lot of work, you need libraries like Redux that have a ton of components and dependencies for each and every feature. And if one component has an error or is incompatible because of it's version to a modification/feature that is needed. The whole thing crashes and does not work. there needs to be a better organizing path.\n\nOriginally I learned and did a personal project in Angular 1.5.x but later, angular 2 came out of beta. It was weird, did not give it much thought. I am giving it thought now. and I am studying it, planning to make a new project on it. Won't give details about that just yet, but I will as soon as I have something. All that I can say is that this project will need to be finished fast. And I will have a MVP as soon as possible (my target is by 1 April).\n\nSo what I can say for now, is , I'm going all in Angular 2. I'm also going all in to another programming language, but that is for later. Thank you for reading thus far. \n\nI always want more, it's never enough, there's so much information outh there that you can't really settle. Unless you want to be a plain waste of air. Then you should settle. So many people have. Just Fuck, eat, shit and sleep. If that's what your life purpose to be, fine. You have that right. I don't. I want more.\n\nStay tuned for more.\n\n",
+      "fileAbsolutePath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-19/index.md",
+      "fields": {
+        "slug": "/posts/welcome-to-my-site/",
+        "tagSlugs": [
+          "/tags/welcome/",
+          "/tags/introduction/"
+        ],
+        "categorySlug": "/categories/welcome/"
+      }
+    },
+    "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-19/1.jpg absPath of file": {
+      "id": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-19/1.jpg absPath of file",
+      "children": [
+        "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-19/1.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "a3057b79175cdcf4a107e8cc2c8f8325",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "description": "File \"src/pages/articles/2017-03-19/1.jpg\"",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-19/1.jpg",
+      "relativePath": "articles/2017-03-19/1.jpg",
+      "extension": "jpg",
+      "size": 840478,
+      "prettySize": "840 kB",
+      "modifiedTime": "2018-06-27T21:40:15.658Z",
+      "accessTime": "2018-06-28T22:06:29.706Z",
+      "changeTime": "2018-06-28T21:54:14.009Z",
+      "birthTime": "2018-06-27T21:40:15.647Z",
+      "root": "/",
+      "dir": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-19",
+      "base": "1.jpg",
+      "ext": ".jpg",
+      "name": "1",
+      "relativeDirectory": "articles/2017-03-19",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8594140444,
+      "blocks": 1648,
+      "atimeMs": 1530223589705.817,
+      "mtimeMs": 1530135615657.6277,
+      "ctimeMs": 1530222854008.7422,
+      "birthtimeMs": 1530135615646.7886,
+      "atime": "2018-06-28T22:06:29.706Z",
+      "mtime": "2018-06-27T21:40:15.658Z",
+      "ctime": "2018-06-28T21:54:14.009Z",
+      "birthtime": "2018-06-27T21:40:15.647Z",
+      "fields": {
+        "slug": "/undefined/"
+      }
+    },
+    "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-19/1.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-19/1.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-19/1.jpg absPath of file",
+      "internal": {
+        "contentDigest": "a3057b79175cdcf4a107e8cc2c8f8325",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-31 absPath of file": {
+      "id": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-31 absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "c6b300aaa2e108301c8e8e1ec0cec494",
+        "type": "Directory",
+        "description": "Directory \"src/pages/articles/2017-03-31\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-31",
+      "relativePath": "articles/2017-03-31",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2018-06-28T22:13:12.644Z",
+      "accessTime": "2018-06-28T22:14:03.433Z",
+      "changeTime": "2018-06-28T22:13:12.644Z",
+      "birthTime": "2018-06-27T21:40:15.658Z",
+      "root": "/",
+      "dir": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles",
+      "base": "2017-03-31",
+      "ext": "",
+      "name": "2017-03-31",
+      "relativeDirectory": "articles",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8594140439,
+      "blocks": 0,
+      "atimeMs": 1530224043433.397,
+      "mtimeMs": 1530223992643.9646,
+      "ctimeMs": 1530223992643.9646,
+      "birthtimeMs": 1530135615658.2842,
+      "atime": "2018-06-28T22:14:03.433Z",
+      "mtime": "2018-06-28T22:13:12.644Z",
+      "ctime": "2018-06-28T22:13:12.644Z",
+      "birthtime": "2018-06-27T21:40:15.658Z"
+    },
+    "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-31/index.md absPath of file": {
+      "id": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-31/index.md absPath of file",
+      "children": [
+        "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-31/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "953403377b56cde3ac4d82e523e9e2f3",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "description": "File \"src/pages/articles/2017-03-31/index.md\"",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-31/index.md",
+      "relativePath": "articles/2017-03-31/index.md",
+      "extension": "md",
+      "size": 4015,
+      "prettySize": "4.01 kB",
+      "modifiedTime": "2018-06-28T21:28:07.830Z",
+      "accessTime": "2018-06-28T22:07:20.631Z",
+      "changeTime": "2018-06-28T21:54:14.000Z",
+      "birthTime": "2018-06-27T21:40:15.672Z",
+      "root": "/",
+      "dir": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-31",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "articles/2017-03-31",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8594140440,
+      "blocks": 8,
+      "atimeMs": 1530223640630.5154,
+      "mtimeMs": 1530221287830.156,
+      "ctimeMs": 1530222854000.3582,
+      "birthtimeMs": 1530135615672.3108,
+      "atime": "2018-06-28T22:07:20.631Z",
+      "mtime": "2018-06-28T21:28:07.830Z",
+      "ctime": "2018-06-28T21:54:14.000Z",
+      "birthtime": "2018-06-27T21:40:15.672Z",
+      "fields": {
+        "slug": "/undefined/"
+      }
+    },
+    "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-31/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-31/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-31/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: Paste Project - Angular vs jQuery\ndate: \"2017-03-31T23:25:10+03:00\"\nlayout: post\ndraft: false\npath: \"/posts/paste-project-angular-vs-jquery\"\ncategory: \"javascript\"\ntags:\n  - \"Angular\"\n  - \"jQuery\"\n  - \"fight\"\ndescription: \"Angular 2.x or jquery 3.x\"\n---\n\n##### Angular 2\n\nI'm new in angular 2. I made a project for about most of last year in Angular 1.5.x and started learning Angular 2 in the past month.\nFirst I did the angular tour of heroes tutorial on the official site. Kind of got stuck on the services part. I wanted to understand everything and things where not making so much sense so I moved on to other prospect tutorials. A very good friend of mine gave me as a birthday present a uDemy course, about angular 2. So I started from the versy first lesson, and I made each step with the IDE open and trying everything in my right. I wanted to remember everything, try out and understand completely. That worked, but, it was slow as hell. In after completing a 10% part of a 35h course I started just listening to the courses for the next 10%. at 20% I only started to look for the parts that where crucial in my head and needed to know about, that I was about to use. What was left in my head was routing, http and dependency injection.\n\nI loved routing, how it was done in Angular 2, just loved it. Everything was so simple, it made sense.HTTP, not so much and dependency injection I did not quite get.\n\n### jQuery\n\nI've been working with jQuery for about 10 years. It's been a love-hate relationship but more love, like 85% love, 15% hate. Hate in the first years when things did not work. It was usually (mostly) my fault when that happened. but in jQuery, like, I think most of everybody else that's a 10+ year front end (or full stack) developer, I was and am, more in control of, more comfortable with.\n\n### The project\n\nThe project was simple. A webpage where you get to put something in a textbox on mobile and then have it on any other place (desktop mostly). A web based app that allows any user to share anything at any given time.\n\nIt took me 1.5 weeks to fail in doing it with angular 2 and about 3-5 hours to do it from scratch with jQuery, Bootstrap and both a goLang rest server and firebase database.\n\n### The result\n\nAt http://toolaxy.com/paste you can find the project. The html, css, js are hosted on github pages and the database is firebase. Basically it's a fully functional web app that's simple as hell, and that's also free.\n\nAt one point things where too complicated in Angular 2 to make and a CRAZY idea struck my mind. Why not do it in jQuery, you're much more comfortable with it, and it does not have to be a complex functionality. Well, originally I was looking to learn Angular 2 (that's why I made it originally in angular), I was looking to learn golang. But in the end, all that I was left with was the realization that angular 2 was not the best choice for this project. And it made me question, what kind of project is angular 2 good for. Still don't have the answer to that. Same problem in my head with React. At most, if I do have a reason for building something specifically like that, with string interpolation, data binding, directives, models, routes and other angular-like features, I would use vuejs. It seems to have everything, support and covers most of the things one might need. First, there must be a reason for using it.\n\n### Conclusion\n\njQuery is ranking better than angular and react and vuejs combined on google trends. But that's not the reason.\njQuery is older and more documented online than anguar and react and vuejs combined (I'm talking stack overflow, forums, projects, etc). But that's not the reason either.\njQuery is the fastest, easiest, most reliable way for me to get to a result in a web app compared to any other alternative, mostly because it was part of my life for the past 10 years of front end development. And that is the reason. I'm more knowledgeable in jQuery, I am more capable of getting the job done. Period.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "bfea530b1b6d58c0da38ce9685887549",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin",
+          "tagSlugs": "default-site-plugin",
+          "categorySlug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Paste Project - Angular vs jQuery",
+        "date": "2017-03-31T23:25:10+03:00",
+        "layout": "post",
+        "draft": false,
+        "path": "/posts/paste-project-angular-vs-jquery",
+        "category": "javascript",
+        "tags": [
+          "Angular",
+          "jQuery",
+          "fight"
+        ],
+        "description": "Angular 2.x or jquery 3.x",
+        "_PARENT": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-31/index.md absPath of file",
+        "parent": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-31/index.md absPath of file"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n##### Angular 2\n\nI'm new in angular 2. I made a project for about most of last year in Angular 1.5.x and started learning Angular 2 in the past month.\nFirst I did the angular tour of heroes tutorial on the official site. Kind of got stuck on the services part. I wanted to understand everything and things where not making so much sense so I moved on to other prospect tutorials. A very good friend of mine gave me as a birthday present a uDemy course, about angular 2. So I started from the versy first lesson, and I made each step with the IDE open and trying everything in my right. I wanted to remember everything, try out and understand completely. That worked, but, it was slow as hell. In after completing a 10% part of a 35h course I started just listening to the courses for the next 10%. at 20% I only started to look for the parts that where crucial in my head and needed to know about, that I was about to use. What was left in my head was routing, http and dependency injection.\n\nI loved routing, how it was done in Angular 2, just loved it. Everything was so simple, it made sense.HTTP, not so much and dependency injection I did not quite get.\n\n### jQuery\n\nI've been working with jQuery for about 10 years. It's been a love-hate relationship but more love, like 85% love, 15% hate. Hate in the first years when things did not work. It was usually (mostly) my fault when that happened. but in jQuery, like, I think most of everybody else that's a 10+ year front end (or full stack) developer, I was and am, more in control of, more comfortable with.\n\n### The project\n\nThe project was simple. A webpage where you get to put something in a textbox on mobile and then have it on any other place (desktop mostly). A web based app that allows any user to share anything at any given time.\n\nIt took me 1.5 weeks to fail in doing it with angular 2 and about 3-5 hours to do it from scratch with jQuery, Bootstrap and both a goLang rest server and firebase database.\n\n### The result\n\nAt http://toolaxy.com/paste you can find the project. The html, css, js are hosted on github pages and the database is firebase. Basically it's a fully functional web app that's simple as hell, and that's also free.\n\nAt one point things where too complicated in Angular 2 to make and a CRAZY idea struck my mind. Why not do it in jQuery, you're much more comfortable with it, and it does not have to be a complex functionality. Well, originally I was looking to learn Angular 2 (that's why I made it originally in angular), I was looking to learn golang. But in the end, all that I was left with was the realization that angular 2 was not the best choice for this project. And it made me question, what kind of project is angular 2 good for. Still don't have the answer to that. Same problem in my head with React. At most, if I do have a reason for building something specifically like that, with string interpolation, data binding, directives, models, routes and other angular-like features, I would use vuejs. It seems to have everything, support and covers most of the things one might need. First, there must be a reason for using it.\n\n### Conclusion\n\njQuery is ranking better than angular and react and vuejs combined on google trends. But that's not the reason.\njQuery is older and more documented online than anguar and react and vuejs combined (I'm talking stack overflow, forums, projects, etc). But that's not the reason either.\njQuery is the fastest, easiest, most reliable way for me to get to a result in a web app compared to any other alternative, mostly because it was part of my life for the past 10 years of front end development. And that is the reason. I'm more knowledgeable in jQuery, I am more capable of getting the job done. Period.\n",
+      "fileAbsolutePath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-31/index.md",
+      "fields": {
+        "slug": "/posts/paste-project-angular-vs-jquery",
+        "tagSlugs": [
+          "/tags/angular/",
+          "/tags/j-query/",
+          "/tags/fight/"
+        ],
+        "categorySlug": "/categories/javascript/"
+      }
+    },
+    "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-28 absPath of file": {
+      "id": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-28 absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "7390b2b684ca36fec8ce3e799247b4b2",
+        "type": "Directory",
+        "description": "Directory \"src/pages/articles/2017-03-28\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-28",
+      "relativePath": "articles/2017-03-28",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2018-06-28T22:13:21.752Z",
+      "accessTime": "2018-06-28T22:14:03.433Z",
+      "changeTime": "2018-06-28T22:13:21.752Z",
+      "birthTime": "2018-06-27T21:40:15.703Z",
+      "root": "/",
+      "dir": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles",
+      "base": "2017-03-28",
+      "ext": "",
+      "name": "2017-03-28",
+      "relativeDirectory": "articles",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8594140445,
+      "blocks": 0,
+      "atimeMs": 1530224043433.3018,
+      "mtimeMs": 1530224001751.9531,
+      "ctimeMs": 1530224001751.9531,
+      "birthtimeMs": 1530135615702.765,
+      "atime": "2018-06-28T22:14:03.433Z",
+      "mtime": "2018-06-28T22:13:21.752Z",
+      "ctime": "2018-06-28T22:13:21.752Z",
+      "birthtime": "2018-06-27T21:40:15.703Z"
+    },
+    "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-28/index.md absPath of file": {
+      "id": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-28/index.md absPath of file",
+      "children": [
+        "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-28/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "0862cee23f49983bc31380da73b2e5ec",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "description": "File \"src/pages/articles/2017-03-28/index.md\"",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-28/index.md",
+      "relativePath": "articles/2017-03-28/index.md",
+      "extension": "md",
+      "size": 2633,
+      "prettySize": "2.63 kB",
+      "modifiedTime": "2018-06-28T21:22:04.718Z",
+      "accessTime": "2018-06-28T22:07:58.457Z",
+      "changeTime": "2018-06-28T21:54:14.018Z",
+      "birthTime": "2018-06-27T21:40:15.720Z",
+      "root": "/",
+      "dir": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-28",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "articles/2017-03-28",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8594140448,
+      "blocks": 8,
+      "atimeMs": 1530223678457.1162,
+      "mtimeMs": 1530220924718.141,
+      "ctimeMs": 1530222854018.0874,
+      "birthtimeMs": 1530135615719.9392,
+      "atime": "2018-06-28T22:07:58.457Z",
+      "mtime": "2018-06-28T21:22:04.718Z",
+      "ctime": "2018-06-28T21:54:14.018Z",
+      "birthtime": "2018-06-27T21:40:15.720Z",
+      "fields": {
+        "slug": "/undefined/"
+      }
+    },
+    "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-28/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-28/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-28/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: \"Mobile to Desktop incognito Paste\"\ndate: \"2017-03-28T18:15:05+03:00\"\nlayout: post\ndraft: false\npath: \"/posts/mobile-to-desktop-incognito-paste/\"\ncategory: \"paste\"\ntags:\n  - \"software\"\n  - \"problem\"\n  - \"solution\"\n  - \"paste\"\ndescription: \"Working on something nice.\"\n---\n\nThere is no solution out there, for when I want to paste something from my mobile smart-phone to a computer that I don't want to log into to have any sort of service at my disposal to do the sharing of text. I'm talking about when you want to share a link to a desktop pc from your phone, and you don't want to go to facebook on the desktop pc, log in, add your highly secure password and hope for the best, all just to paste a link of a cat video. or the winning lottery tickets numbers, or whatever. \n\n### There is no service that helps you do that.\n\nI recentlty was trying to print something at a print house and in order to do that I had a pdf in my google drive. \n\nOf course, the most obvious way was to send that PDF to a email and communicate with other people and ask them to print that for you. Right. Well, the other people where a bit busy, I did not want them to have my email address, because I'm selfish in that way, and, well, the problem was actually that they did not have stuff set up to receive an email , and print it for their customers. Yeah, they suck like that. Yes, My country lives in a cave.\n\nBasically the google drive link was huge so I could not write every single character of it in time until it closed the printhouse. Even though it was morning. But there was an idea that popped in my head. What if... I'm going to.... YES!!! shorten that url, and write that character by character. \n\nThat worked, and I did that for the next months (had something to do at the printhouse every month). Things tarted to get really boring and dumb really fast. There needs to be a better way. So ...\n\n\nI searched for sollutions online that can help me. Turns out, all of the results I found where apps, that you can install on your phone and you can sync your computer to. Awesome. Not what I was looking for. I need no login. at all. I'm going to a public print house. I just need a system that can help me receive a pasted text from my phone. That is all. This is 2017, come on technology.\n\n### The sollution\n\nI don't see anything in the horizon so I'm going to build it myself.\n\nI am currently working on a app in Angular2 and GoLang that helps me solve my above problem. The result of this will be a MVP that will reside at http://toolaxy.com/paste . Still working on it. Will make a post about it when it's finished. Until then.",
+        "type": "MarkdownRemark",
+        "contentDigest": "1476a347c460211c8e79e84235c2d762",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin",
+          "tagSlugs": "default-site-plugin",
+          "categorySlug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Mobile to Desktop incognito Paste",
+        "date": "2017-03-28T18:15:05+03:00",
+        "layout": "post",
+        "draft": false,
+        "path": "/posts/mobile-to-desktop-incognito-paste/",
+        "category": "paste",
+        "tags": [
+          "software",
+          "problem",
+          "solution",
+          "paste"
+        ],
+        "description": "Working on something nice.",
+        "_PARENT": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-28/index.md absPath of file",
+        "parent": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-28/index.md absPath of file"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nThere is no solution out there, for when I want to paste something from my mobile smart-phone to a computer that I don't want to log into to have any sort of service at my disposal to do the sharing of text. I'm talking about when you want to share a link to a desktop pc from your phone, and you don't want to go to facebook on the desktop pc, log in, add your highly secure password and hope for the best, all just to paste a link of a cat video. or the winning lottery tickets numbers, or whatever. \n\n### There is no service that helps you do that.\n\nI recentlty was trying to print something at a print house and in order to do that I had a pdf in my google drive. \n\nOf course, the most obvious way was to send that PDF to a email and communicate with other people and ask them to print that for you. Right. Well, the other people where a bit busy, I did not want them to have my email address, because I'm selfish in that way, and, well, the problem was actually that they did not have stuff set up to receive an email , and print it for their customers. Yeah, they suck like that. Yes, My country lives in a cave.\n\nBasically the google drive link was huge so I could not write every single character of it in time until it closed the printhouse. Even though it was morning. But there was an idea that popped in my head. What if... I'm going to.... YES!!! shorten that url, and write that character by character. \n\nThat worked, and I did that for the next months (had something to do at the printhouse every month). Things tarted to get really boring and dumb really fast. There needs to be a better way. So ...\n\n\nI searched for sollutions online that can help me. Turns out, all of the results I found where apps, that you can install on your phone and you can sync your computer to. Awesome. Not what I was looking for. I need no login. at all. I'm going to a public print house. I just need a system that can help me receive a pasted text from my phone. That is all. This is 2017, come on technology.\n\n### The sollution\n\nI don't see anything in the horizon so I'm going to build it myself.\n\nI am currently working on a app in Angular2 and GoLang that helps me solve my above problem. The result of this will be a MVP that will reside at http://toolaxy.com/paste . Still working on it. Will make a post about it when it's finished. Until then.",
+      "fileAbsolutePath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-28/index.md",
+      "fields": {
+        "slug": "/posts/mobile-to-desktop-incognito-paste/",
+        "tagSlugs": [
+          "/tags/software/",
+          "/tags/problem/",
+          "/tags/solution/",
+          "/tags/paste/"
+        ],
+        "categorySlug": "/categories/paste/"
+      }
+    },
+    "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-04-13 absPath of file": {
+      "id": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-04-13 absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "864635de83216be9c624d193fa90b867",
+        "type": "Directory",
+        "description": "Directory \"src/pages/articles/2017-04-13\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-04-13",
+      "relativePath": "articles/2017-04-13",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2018-06-28T22:13:41.664Z",
+      "accessTime": "2018-06-28T22:14:03.434Z",
+      "changeTime": "2018-06-28T22:13:41.664Z",
+      "birthTime": "2018-06-27T21:40:15.744Z",
+      "root": "/",
+      "dir": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles",
+      "base": "2017-04-13",
+      "ext": "",
+      "name": "2017-04-13",
+      "relativeDirectory": "articles",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8594140450,
+      "blocks": 0,
+      "atimeMs": 1530224043433.5547,
+      "mtimeMs": 1530224021664.2932,
+      "ctimeMs": 1530224021664.2932,
+      "birthtimeMs": 1530135615743.9294,
+      "atime": "2018-06-28T22:14:03.434Z",
+      "mtime": "2018-06-28T22:13:41.664Z",
+      "ctime": "2018-06-28T22:13:41.664Z",
+      "birthtime": "2018-06-27T21:40:15.744Z"
+    },
+    "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-04-13/index.md absPath of file": {
+      "id": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-04-13/index.md absPath of file",
+      "children": [
+        "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-04-13/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "5fc24e517a545bc3b974ea9c19bebfdf",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "description": "File \"src/pages/articles/2017-04-13/index.md\"",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-04-13/index.md",
+      "relativePath": "articles/2017-04-13/index.md",
+      "extension": "md",
+      "size": 3886,
+      "prettySize": "3.89 kB",
+      "modifiedTime": "2018-06-28T21:18:10.451Z",
+      "accessTime": "2018-06-28T22:08:12.315Z",
+      "changeTime": "2018-06-28T21:54:14.028Z",
+      "birthTime": "2018-06-27T21:40:15.751Z",
+      "root": "/",
+      "dir": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-04-13",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "articles/2017-04-13",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8594140452,
+      "blocks": 8,
+      "atimeMs": 1530223692315.2078,
+      "mtimeMs": 1530220690450.7107,
+      "ctimeMs": 1530222854027.869,
+      "birthtimeMs": 1530135615750.5596,
+      "atime": "2018-06-28T22:08:12.315Z",
+      "mtime": "2018-06-28T21:18:10.451Z",
+      "ctime": "2018-06-28T21:54:14.028Z",
+      "birthtime": "2018-06-27T21:40:15.751Z",
+      "fields": {
+        "slug": "/undefined/"
+      }
+    },
+    "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-04-13/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-04-13/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-04-13/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: April Update\ndate: \"2017-04-13T22:24:34+03:00\"\nlayout: post\ndraft: false\npath: \"/posts/april-update/\"\ncategory: \"Development\"\ntags:\n  - \"Software\"\n  - \"Updates\"\n  - \"Swift\"\ndescription: \"What have I been doing? - april 2017\"\n\n---\n*** What ?\n\nI said I would be updating here with progress on things. as You've probably seen in later posts, I studied angular, angular 2 and react.I gave feedback on that, but, to recap and sum it up, angular was a in-house library made by google for google. Somebody at one point came with the idea that they should release it to the public and make it open source. All the nerds had an orgasm when that happened, saw it as the greatest thing since sliced bread and adopted it blindly. A different batch of nerds had orgasms when Facebook released their in-house javascript library. But yeah, that happened too. What angular and react are can be defined as in-house libraries, created specifically , originally for their (google and Facebook's) needs to the future products and services, to make things organized, standardized and simple. For them. That is all, nothing else. Now the IT world is trying to use the libraries for their needs. If the same approach and vision is applied, that will most likely work. If they are doing similar types of projects. Otherwise, it won't work. Please prove me wrong.\n\nAlright, that was the last rand about angular and react, from me. But this post is not about angular and react, it's about my progress, so let's get to that, shall we?\n\n*** Seriously, what?\n\nIn short, I'm learning Swift and iOS development. I left all the web stuff behind. No longer want to see WordPress, javascript, php, CSS, LESS, Gulp, HTML, MYSQL. That's behind me now. It's like a old girlfriend that I had a long lasting relationship with and now just broke up. It's Important and healthy to move on as fast as possible. Especially if the relationship was not going that well at the end, and after you broke up with her, you hear she really got on a weird/bad path. The girlfriend in this case is the Web Development. That will make sense in a few years.\n\n*** SWIFT?\n\nYeah, swift. I understand how I can make useful apps that will actually be capable to solve real life problems if I build them for the iPhone. xCode is awesome, SWIFT is awesome, right now I'm still learning it and basic principles in it,, core data, MVC, about IBOutlets and IBActions, how classes work and are inherited, how everything ties together. The emulator is great, I get to test any app that I make for real on my iPhone SE and I'm going to soon opt in to register a developer account (a paying one) on the app store.\n\nI have an app in mind, that I'm not going to talk about yet, that I want to make, launch, monetize and see how it goes.\n\n*** Challenging myself\n\nI made a self challenge to make at least 20 commits for 1 week on github, on my account (here https://github.com/turcuciprian ) while developing in swift. You can see I have done that and I'm still doing it right now. However. 20 is not enough, I think I'm going to do 100 / day minimum, very soon. The reasoning behind the quantity approach is that I am forced to work a lot, to make that many commits. 20 was doable and not that hard. I think 100 is going to take much more of my time, I will get to work a lot, learn a lot and accomplish a lot. Not sure when I will be starting the 100 / day min. But it will be in the next few days.\n\nObviously I won't be a able to keep that up for too much time. But the challenge will be 100 commits / day minimum for 1 week. After I complete that challenge I'll see what else I can challenge myself with. I'll try to write about it here, just to keep a log of things. I'm tripling down on focus for the next period, focus and long and hard work. Nothing else, no distractions. So please, for the time being, leave me alone. See you in a while.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "20485595e4c7c4ba9e59f4b09ce20551",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin",
+          "tagSlugs": "default-site-plugin",
+          "categorySlug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "April Update",
+        "date": "2017-04-13T22:24:34+03:00",
+        "layout": "post",
+        "draft": false,
+        "path": "/posts/april-update/",
+        "category": "Development",
+        "tags": [
+          "Software",
+          "Updates",
+          "Swift"
+        ],
+        "description": "What have I been doing? - april 2017",
+        "_PARENT": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-04-13/index.md absPath of file",
+        "parent": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-04-13/index.md absPath of file"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "*** What ?\n\nI said I would be updating here with progress on things. as You've probably seen in later posts, I studied angular, angular 2 and react.I gave feedback on that, but, to recap and sum it up, angular was a in-house library made by google for google. Somebody at one point came with the idea that they should release it to the public and make it open source. All the nerds had an orgasm when that happened, saw it as the greatest thing since sliced bread and adopted it blindly. A different batch of nerds had orgasms when Facebook released their in-house javascript library. But yeah, that happened too. What angular and react are can be defined as in-house libraries, created specifically , originally for their (google and Facebook's) needs to the future products and services, to make things organized, standardized and simple. For them. That is all, nothing else. Now the IT world is trying to use the libraries for their needs. If the same approach and vision is applied, that will most likely work. If they are doing similar types of projects. Otherwise, it won't work. Please prove me wrong.\n\nAlright, that was the last rand about angular and react, from me. But this post is not about angular and react, it's about my progress, so let's get to that, shall we?\n\n*** Seriously, what?\n\nIn short, I'm learning Swift and iOS development. I left all the web stuff behind. No longer want to see WordPress, javascript, php, CSS, LESS, Gulp, HTML, MYSQL. That's behind me now. It's like a old girlfriend that I had a long lasting relationship with and now just broke up. It's Important and healthy to move on as fast as possible. Especially if the relationship was not going that well at the end, and after you broke up with her, you hear she really got on a weird/bad path. The girlfriend in this case is the Web Development. That will make sense in a few years.\n\n*** SWIFT?\n\nYeah, swift. I understand how I can make useful apps that will actually be capable to solve real life problems if I build them for the iPhone. xCode is awesome, SWIFT is awesome, right now I'm still learning it and basic principles in it,, core data, MVC, about IBOutlets and IBActions, how classes work and are inherited, how everything ties together. The emulator is great, I get to test any app that I make for real on my iPhone SE and I'm going to soon opt in to register a developer account (a paying one) on the app store.\n\nI have an app in mind, that I'm not going to talk about yet, that I want to make, launch, monetize and see how it goes.\n\n*** Challenging myself\n\nI made a self challenge to make at least 20 commits for 1 week on github, on my account (here https://github.com/turcuciprian ) while developing in swift. You can see I have done that and I'm still doing it right now. However. 20 is not enough, I think I'm going to do 100 / day minimum, very soon. The reasoning behind the quantity approach is that I am forced to work a lot, to make that many commits. 20 was doable and not that hard. I think 100 is going to take much more of my time, I will get to work a lot, learn a lot and accomplish a lot. Not sure when I will be starting the 100 / day min. But it will be in the next few days.\n\nObviously I won't be a able to keep that up for too much time. But the challenge will be 100 commits / day minimum for 1 week. After I complete that challenge I'll see what else I can challenge myself with. I'll try to write about it here, just to keep a log of things. I'm tripling down on focus for the next period, focus and long and hard work. Nothing else, no distractions. So please, for the time being, leave me alone. See you in a while.\n",
+      "fileAbsolutePath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-04-13/index.md",
+      "fields": {
+        "slug": "/posts/april-update/",
+        "tagSlugs": [
+          "/tags/software/",
+          "/tags/updates/",
+          "/tags/swift/"
+        ],
+        "categorySlug": "/categories/development/"
+      }
+    },
+    "SitePage /offline-plugin-app-shell-fallback/": {
+      "layout": "index",
+      "jsonName": "offline-plugin-app-shell-fallback.json",
+      "internalComponentName": "ComponentOfflinePluginAppShellFallback",
+      "path": "/offline-plugin-app-shell-fallback/",
+      "component": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/node_modules/gatsby-plugin-offline/app-shell.js",
+      "componentChunkName": "component---node-modules-gatsby-plugin-offline-app-shell-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-offline",
+      "pluginCreatorId": "Plugin gatsby-plugin-offline",
+      "componentPath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/node_modules/gatsby-plugin-offline/app-shell.js",
+      "id": "SitePage /offline-plugin-app-shell-fallback/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "13d3294b0b97cf7cecf3a45bb565b9d8",
+        "description": "Plugin gatsby-plugin-offline",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /about": {
+      "layout": "index",
+      "jsonName": "about.json",
+      "internalComponentName": "ComponentAbout",
+      "path": "/about",
+      "component": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/page-template.jsx",
+      "componentChunkName": "component---src-templates-page-template-jsx",
+      "context": {
+        "slug": "/about"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/page-template.jsx",
+      "id": "SitePage /about",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "fb166b6ca1a3f2030bac53f4de5d0718",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /contact": {
+      "layout": "index",
+      "jsonName": "contact.json",
+      "internalComponentName": "ComponentContact",
+      "path": "/contact",
+      "component": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/page-template.jsx",
+      "componentChunkName": "component---src-templates-page-template-jsx",
+      "context": {
+        "slug": "/contact"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/page-template.jsx",
+      "id": "SitePage /contact",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "aa7219b3ca8949b7794f41ef1f02680c",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /posts/welcome-to-my-site/": {
+      "layout": "index",
+      "jsonName": "posts-welcome-to-my-site.json",
+      "internalComponentName": "ComponentPostsWelcomeToMySite",
+      "path": "/posts/welcome-to-my-site/",
+      "component": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/post-template.jsx",
+      "componentChunkName": "component---src-templates-post-template-jsx",
+      "context": {
+        "slug": "/posts/welcome-to-my-site/"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/post-template.jsx",
+      "id": "SitePage /posts/welcome-to-my-site/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "b333b2780ed763276cd1c9b401691a2e",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/welcome/": {
+      "layout": "index",
+      "jsonName": "tags-welcome.json",
+      "internalComponentName": "ComponentTagsWelcome",
+      "path": "/tags/welcome/",
+      "component": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/tag-template.jsx",
+      "componentChunkName": "component---src-templates-tag-template-jsx",
+      "context": {
+        "tag": "welcome"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/tag-template.jsx",
+      "id": "SitePage /tags/welcome/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "98af5a8b98a2dc6b204ceac2128d7aed",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/introduction/": {
+      "layout": "index",
+      "jsonName": "tags-introduction.json",
+      "internalComponentName": "ComponentTagsIntroduction",
+      "path": "/tags/introduction/",
+      "component": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/tag-template.jsx",
+      "componentChunkName": "component---src-templates-tag-template-jsx",
+      "context": {
+        "tag": "Introduction"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/tag-template.jsx",
+      "id": "SitePage /tags/introduction/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "dd08729524a1aa635905313a7f61a068",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /categories/welcome/": {
+      "layout": "index",
+      "jsonName": "categories-welcome.json",
+      "internalComponentName": "ComponentCategoriesWelcome",
+      "path": "/categories/welcome/",
+      "component": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/category-template.jsx",
+      "componentChunkName": "component---src-templates-category-template-jsx",
+      "context": {
+        "category": "welcome"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/category-template.jsx",
+      "id": "SitePage /categories/welcome/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "c0eb706113ef186f7ca07190944e1ee2",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /posts/paste-project-angular-vs-jquery": {
+      "layout": "index",
+      "jsonName": "posts-paste-project-angular-vs-jquery.json",
+      "internalComponentName": "ComponentPostsPasteProjectAngularVsJquery",
+      "path": "/posts/paste-project-angular-vs-jquery",
+      "component": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/post-template.jsx",
+      "componentChunkName": "component---src-templates-post-template-jsx",
+      "context": {
+        "slug": "/posts/paste-project-angular-vs-jquery"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/post-template.jsx",
+      "id": "SitePage /posts/paste-project-angular-vs-jquery",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "7529b51034462f86bea054d2def98f69",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/angular/": {
+      "layout": "index",
+      "jsonName": "tags-angular.json",
+      "internalComponentName": "ComponentTagsAngular",
+      "path": "/tags/angular/",
+      "component": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/tag-template.jsx",
+      "componentChunkName": "component---src-templates-tag-template-jsx",
+      "context": {
+        "tag": "Angular"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/tag-template.jsx",
+      "id": "SitePage /tags/angular/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "35982f6dd4f7be51bbe9d21690cd93d5",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/j-query/": {
+      "layout": "index",
+      "jsonName": "tags-j-query.json",
+      "internalComponentName": "ComponentTagsJQuery",
+      "path": "/tags/j-query/",
+      "component": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/tag-template.jsx",
+      "componentChunkName": "component---src-templates-tag-template-jsx",
+      "context": {
+        "tag": "jQuery"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/tag-template.jsx",
+      "id": "SitePage /tags/j-query/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "4af9ac956dbd090ab11e58dd87c97799",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/fight/": {
+      "layout": "index",
+      "jsonName": "tags-fight.json",
+      "internalComponentName": "ComponentTagsFight",
+      "path": "/tags/fight/",
+      "component": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/tag-template.jsx",
+      "componentChunkName": "component---src-templates-tag-template-jsx",
+      "context": {
+        "tag": "fight"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/tag-template.jsx",
+      "id": "SitePage /tags/fight/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "73e7c07c196b87666a51a03d68687211",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /categories/javascript/": {
+      "layout": "index",
+      "jsonName": "categories-javascript.json",
+      "internalComponentName": "ComponentCategoriesJavascript",
+      "path": "/categories/javascript/",
+      "component": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/category-template.jsx",
+      "componentChunkName": "component---src-templates-category-template-jsx",
+      "context": {
+        "category": "javascript"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/category-template.jsx",
+      "id": "SitePage /categories/javascript/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "2b216dbcf5299210f30f13b3c80c56d5",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /posts/mobile-to-desktop-incognito-paste/": {
+      "layout": "index",
+      "jsonName": "posts-mobile-to-desktop-incognito-paste.json",
+      "internalComponentName": "ComponentPostsMobileToDesktopIncognitoPaste",
+      "path": "/posts/mobile-to-desktop-incognito-paste/",
+      "component": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/post-template.jsx",
+      "componentChunkName": "component---src-templates-post-template-jsx",
+      "context": {
+        "slug": "/posts/mobile-to-desktop-incognito-paste/"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/post-template.jsx",
+      "id": "SitePage /posts/mobile-to-desktop-incognito-paste/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "5333cc506e095e2be2c268ac2c8fe4cf",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/software/": {
+      "layout": "index",
+      "jsonName": "tags-software.json",
+      "internalComponentName": "ComponentTagsSoftware",
+      "path": "/tags/software/",
+      "component": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/tag-template.jsx",
+      "componentChunkName": "component---src-templates-tag-template-jsx",
+      "context": {
+        "tag": "Software"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/tag-template.jsx",
+      "id": "SitePage /tags/software/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "5cbfd3f64b4c425379690edc29abd038",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/problem/": {
+      "layout": "index",
+      "jsonName": "tags-problem.json",
+      "internalComponentName": "ComponentTagsProblem",
+      "path": "/tags/problem/",
+      "component": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/tag-template.jsx",
+      "componentChunkName": "component---src-templates-tag-template-jsx",
+      "context": {
+        "tag": "problem"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/tag-template.jsx",
+      "id": "SitePage /tags/problem/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "5e25116d2416f9a5e1adb9ec0d2bbcf5",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/solution/": {
+      "layout": "index",
+      "jsonName": "tags-solution.json",
+      "internalComponentName": "ComponentTagsSolution",
+      "path": "/tags/solution/",
+      "component": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/tag-template.jsx",
+      "componentChunkName": "component---src-templates-tag-template-jsx",
+      "context": {
+        "tag": "solution"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/tag-template.jsx",
+      "id": "SitePage /tags/solution/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "05fa20c95ae2f8335e04c5dc1be0f871",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/paste/": {
+      "layout": "index",
+      "jsonName": "tags-paste.json",
+      "internalComponentName": "ComponentTagsPaste",
+      "path": "/tags/paste/",
+      "component": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/tag-template.jsx",
+      "componentChunkName": "component---src-templates-tag-template-jsx",
+      "context": {
+        "tag": "paste"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/tag-template.jsx",
+      "id": "SitePage /tags/paste/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "a91cf41ee7a4a65b30498e7037ad618e",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /categories/paste/": {
+      "layout": "index",
+      "jsonName": "categories-paste.json",
+      "internalComponentName": "ComponentCategoriesPaste",
+      "path": "/categories/paste/",
+      "component": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/category-template.jsx",
+      "componentChunkName": "component---src-templates-category-template-jsx",
+      "context": {
+        "category": "paste"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/category-template.jsx",
+      "id": "SitePage /categories/paste/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "b46a22bc1ad42aa938cf3605df6c1f8e",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /posts/april-update/": {
+      "layout": "index",
+      "jsonName": "posts-april-update.json",
+      "internalComponentName": "ComponentPostsAprilUpdate",
+      "path": "/posts/april-update/",
+      "component": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/post-template.jsx",
+      "componentChunkName": "component---src-templates-post-template-jsx",
+      "context": {
+        "slug": "/posts/april-update/"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/post-template.jsx",
+      "id": "SitePage /posts/april-update/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "61c69356e9d0e6c1f9a6a7d6d4b352e5",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/updates/": {
+      "layout": "index",
+      "jsonName": "tags-updates.json",
+      "internalComponentName": "ComponentTagsUpdates",
+      "path": "/tags/updates/",
+      "component": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/tag-template.jsx",
+      "componentChunkName": "component---src-templates-tag-template-jsx",
+      "context": {
+        "tag": "Updates"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/tag-template.jsx",
+      "id": "SitePage /tags/updates/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "6f5a54ef6ac5dcbce81e705e548d547b",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/swift/": {
+      "layout": "index",
+      "jsonName": "tags-swift.json",
+      "internalComponentName": "ComponentTagsSwift",
+      "path": "/tags/swift/",
+      "component": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/tag-template.jsx",
+      "componentChunkName": "component---src-templates-tag-template-jsx",
+      "context": {
+        "tag": "Swift"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/tag-template.jsx",
+      "id": "SitePage /tags/swift/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "5ae2a9ffcb4e7f3f04e61ea789be6f14",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /categories/development/": {
+      "layout": "index",
+      "jsonName": "categories-development.json",
+      "internalComponentName": "ComponentCategoriesDevelopment",
+      "path": "/categories/development/",
+      "component": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/category-template.jsx",
+      "componentChunkName": "component---src-templates-category-template-jsx",
+      "context": {
+        "category": "Development"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/category-template.jsx",
+      "id": "SitePage /categories/development/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "0e542be3b28dd471d5938a654123e9d1",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404/": {
+      "layout": "index",
+      "jsonName": "404.json",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/404.jsx",
+      "componentChunkName": "component---src-pages-404-jsx",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/404.jsx",
+      "id": "SitePage /404/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "c5cea2ccfc0d52af196551bdd07f58b0",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /categories/": {
+      "layout": "index",
+      "jsonName": "categories.json",
+      "internalComponentName": "ComponentCategories",
+      "path": "/categories/",
+      "component": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/categories.jsx",
+      "componentChunkName": "component---src-pages-categories-jsx",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/categories.jsx",
+      "id": "SitePage /categories/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d8bf9956ea185a54d4e365895f646dab",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "layout": "index",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/index.jsx",
+      "componentChunkName": "component---src-pages-index-jsx",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/index.jsx",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "000834efbf21789a9e87a562eef13b77",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/": {
+      "layout": "index",
+      "jsonName": "tags.json",
+      "internalComponentName": "ComponentTags",
+      "path": "/tags/",
+      "component": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/tags.jsx",
+      "componentChunkName": "component---src-pages-tags-jsx",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/tags.jsx",
+      "id": "SitePage /tags/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "9aa56291453959b1c31aa3c33deb4fe9",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "layout": "index",
+      "jsonName": "404-html.json",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/404.jsx",
+      "componentChunkName": "component---src-pages-404-jsx",
+      "context": {},
+      "pluginCreator___NODE": "Plugin prod-404",
+      "pluginCreatorId": "Plugin prod-404",
+      "componentPath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/404.jsx",
+      "id": "SitePage /404.html",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "b22b7a45558b366abef5a6122bfcca59",
+        "description": "Plugin prod-404",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "de03cc122c5606040101f81f51d87d18"
+  },
+  "componentDataDependencies": {
+    "nodes": {
+      "Site": [
+        "/posts/welcome-to-my-site/",
+        "/contact",
+        "/about",
+        "/tags/welcome/",
+        "/tags/introduction/",
+        "/categories/welcome/",
+        "/posts/a-brief-history-of-typography/",
+        "/tags/linotype/",
+        "/tags/monotype/",
+        "/tags/history-of-typography/",
+        "/tags/helvetica/",
+        "/categories/design-inspiration/",
+        "/posts/paste-project-angular-vs-jquery",
+        "/tags/angular/",
+        "/tags/j-query/",
+        "/tags/fight/",
+        "/categories/javascript/",
+        "/posts/mobile-to-desktop-incognito-paste/",
+        "/tags/software/",
+        "/tags/problem/",
+        "/tags/solution/",
+        "/tags/paste/",
+        "/categories/paste/",
+        "/posts/april-update/",
+        "/tags/updates/",
+        "/tags/swift/",
+        "/categories/development/",
+        "/404/",
+        "/categories/",
+        "/",
+        "/tags/",
+        "/404.html"
+      ],
+      "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2016-01-09---Perfecting-the-Art-of-Perfection/index.md absPath of file >>> MarkdownRemark": [
+        "/posts/welcome-to-my-site/"
+      ],
+      "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/pages/2015-05-01---contact/index.md absPath of file >>> MarkdownRemark": [
+        "/contact"
+      ],
+      "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/pages/2015-05-01---about/index.md absPath of file >>> MarkdownRemark": [
+        "/about"
+      ],
+      "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2016-02-02---A-Brief-History-of-Typography/index.md absPath of file >>> MarkdownRemark": [
+        "/posts/a-brief-history-of-typography/"
+      ],
+      "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2016-01-12---The-Origins-of-Social-Stationery-Lettering/index.md absPath of file >>> MarkdownRemark": [
+        "/posts/paste-project-angular-vs-jquery"
+      ],
+      "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-18-08---The-Birth-of-Movable-Type/index.md absPath of file >>> MarkdownRemark": [
+        "/posts/mobile-to-desktop-incognito-paste/"
+      ],
+      "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-19-08---Humane-Typography-in-the-Digital-Age/index.md absPath of file >>> MarkdownRemark": [
+        "/posts/april-update/"
+      ],
+      "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-19/index.md absPath of file >>> MarkdownRemark": [
+        "/posts/welcome-to-my-site/"
+      ],
+      "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-31/index.md absPath of file >>> MarkdownRemark": [
+        "/posts/paste-project-angular-vs-jquery"
+      ],
+      "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-28/index.md absPath of file >>> MarkdownRemark": [
+        "/posts/mobile-to-desktop-incognito-paste/"
+      ],
+      "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-04-13/index.md absPath of file >>> MarkdownRemark": [
+        "/posts/april-update/"
+      ]
+    },
+    "connections": {
+      "MarkdownRemark": [
+        "/tags/welcome/",
+        "/tags/introduction/",
+        "/categories/welcome/",
+        "/tags/linotype/",
+        "/tags/monotype/",
+        "/tags/history-of-typography/",
+        "/tags/helvetica/",
+        "/categories/design-inspiration/",
+        "/tags/angular/",
+        "/tags/j-query/",
+        "/tags/fight/",
+        "/categories/javascript/",
+        "/tags/software/",
+        "/tags/problem/",
+        "/tags/solution/",
+        "/tags/paste/",
+        "/categories/paste/",
+        "/tags/updates/",
+        "/tags/swift/",
+        "/categories/development/",
+        "/categories/",
+        "/",
+        "/tags/"
+      ],
+      "SitePage": [
+        "/dev-404-page/"
+      ]
+    }
+  }
+}

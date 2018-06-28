@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Ciprian Turcu]]></title><description><![CDATA[Software Developer]]></description><link>https://lumen.netlify.com</link><generator>RSS for Node</generator><lastBuildDate>Thu, 28 Jun 2018 21:51:27 GMT</lastBuildDate><item><title><![CDATA[April Update]]></title><description><![CDATA[What have I been doing? - april 2017]]></description><link>https://lumen.netlify.com/posts/april-update/</link><guid isPermaLink="false">https://lumen.netlify.com/posts/april-update/</guid><pubDate>Thu, 13 Apr 2017 19:24:34 GMT</pubDate><content:encoded>&lt;p&gt;*** What ?&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Ciprian Turcu]]></title><description><![CDATA[Software Developer]]></description><link>https://lumen.netlify.com</link><generator>RSS for Node</generator><lastBuildDate>Thu, 28 Jun 2018 22:14:22 GMT</lastBuildDate><item><title><![CDATA[April Update]]></title><description><![CDATA[What have I been doing? - april 2017]]></description><link>https://lumen.netlify.com/posts/april-update/</link><guid isPermaLink="false">https://lumen.netlify.com/posts/april-update/</guid><pubDate>Thu, 13 Apr 2017 19:24:34 GMT</pubDate><content:encoded>&lt;p&gt;*** What ?&lt;/p&gt;
 &lt;p&gt;I said I would be updating here with progress on things. as You’ve probably seen in later posts, I studied angular, angular 2 and react.I gave feedback on that, but, to recap and sum it up, angular was a in-house library made by google for google. Somebody at one point came with the idea that they should release it to the public and make it open source. All the nerds had an orgasm when that happened, saw it as the greatest thing since sliced bread and adopted it blindly. A different batch of nerds had orgasms when Facebook released their in-house javascript library. But yeah, that happened too. What angular and react are can be defined as in-house libraries, created specifically , originally for their (google and Facebook’s) needs to the future products and services, to make things organized, standardized and simple. For them. That is all, nothing else. Now the IT world is trying to use the libraries for their needs. If the same approach and vision is applied, that will most likely work. If they are doing similar types of projects. Otherwise, it won’t work. Please prove me wrong.&lt;/p&gt;
 &lt;p&gt;Alright, that was the last rand about angular and react, from me. But this post is not about angular and react, it’s about my progress, so let’s get to that, shall we?&lt;/p&gt;
 &lt;p&gt;*** Seriously, what?&lt;/p&gt;
@@ -49,68 +49,4 @@ jQuery is the fastest, easiest, most reliable way for me to get to a result in a
 &lt;p&gt;Originally I learned and did a personal project in Angular 1.5.x but later, angular 2 came out of beta. It was weird, did not give it much thought. I am giving it thought now. and I am studying it, planning to make a new project on it. Won’t give details about that just yet, but I will as soon as I have something. All that I can say is that this project will need to be finished fast. And I will have a MVP as soon as possible (my target is by 1 April).&lt;/p&gt;
 &lt;p&gt;So what I can say for now, is , I’m going all in Angular 2. I’m also going all in to another programming language, but that is for later. Thank you for reading thus far. &lt;/p&gt;
 &lt;p&gt;I always want more, it’s never enough, there’s so much information outh there that you can’t really settle. Unless you want to be a plain waste of air. Then you should settle. So many people have. Just Fuck, eat, shit and sleep. If that’s what your life purpose to be, fine. You have that right. I don’t. I want more.&lt;/p&gt;
-&lt;p&gt;Stay tuned for more.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[A Brief History of Typography]]></title><description><![CDATA[Morbisss in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.]]></description><link>https://lumen.netlify.com/posts/a-brief-history-of-typography/</link><guid isPermaLink="false">https://lumen.netlify.com/posts/a-brief-history-of-typography/</guid><pubDate>Tue, 02 Feb 2016 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;Pellentesque habitant morbi tristique&lt;/strong&gt; senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. &lt;em&gt;Aenean ultricies mi vitae est.&lt;/em&gt; Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. &lt;/p&gt;
-&lt;p&gt;Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui.  &lt;a href=&quot;#&quot;&gt;Donec non enim&lt;/a&gt; in turpis pulvinar facilisis.&lt;/p&gt;
-&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/1-07d3a9ebe902d793eab5fe701b12a6e2-5b032.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; ; max-width: 960px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwAE/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgED/9oADAMBAAIQAxAAAAFYTebWei//xAAcEAABAwUAAAAAAAAAAAAAAAABAAIhAxESMkH/2gAIAQEAAQUCBQkPxvKp6d//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAZEAACAwEAAAAAAAAAAAAAAAAAARAhYXH/2gAIAQEABj8CmhaPp//EABwQAAMBAAIDAAAAAAAAAAAAAAERIQAxQWFxgf/aAAgBAQABPyFql7wy4DI95FkPziaZIrc400T9xRmIQ3//2gAMAwEAAgADAAAAEHcv/8QAFhEAAwAAAAAAAAAAAAAAAAAAAAEh/9oACAEDAQE/EEoQ/8QAFhEAAwAAAAAAAAAAAAAAAAAAAAEh/9oACAECAQE/EG6U/8QAHRABAAICAgMAAAAAAAAAAAAAAQARITFBYVFxsf/aAAgBAQABPxAajTkHHCQKTVidt9R1VUy2YhWWHFuu/kBSlnIG7EIXmC3n3P/Z&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus&quot;
-        title=&quot;&quot;
-        src=&quot;/static/1-07d3a9ebe902d793eab5fe701b12a6e2-d564d.jpg&quot;
-        srcset=&quot;/static/1-07d3a9ebe902d793eab5fe701b12a6e2-865fd.jpg 240w,
-/static/1-07d3a9ebe902d793eab5fe701b12a6e2-d40a0.jpg 480w,
-/static/1-07d3a9ebe902d793eab5fe701b12a6e2-d564d.jpg 960w,
-/static/1-07d3a9ebe902d793eab5fe701b12a6e2-c67c1.jpg 1440w,
-/static/1-07d3a9ebe902d793eab5fe701b12a6e2-5b032.jpg 1800w&quot;
-        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
-      /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;
-&lt;h2&gt;Header Level 2&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit.&lt;/li&gt;
-&lt;li&gt;Aliquam tincidunt mauris eu risus.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. &lt;/p&gt;
-&lt;figure&gt;
-	&lt;blockquote&gt;
-		&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna. Cras in mi at felis aliquet congue. Ut a est eget ligula molestie gravida. Curabitur massa. Donec eleifend, libero at sagittis mollis, tellus est malesuada tellus, at luctus turpis elit sit amet quam. Vivamus pretium ornare est.&lt;/p&gt;
-		&lt;footer&gt;
-			&lt;cite&gt;— Aliquam tincidunt mauris eu risus.&lt;/cite&gt;
-		&lt;/footer&gt;
-	&lt;/blockquote&gt;
-&lt;/figure&gt;
-&lt;h3&gt;Header Level 3&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit.&lt;/li&gt;
-&lt;li&gt;Aliquam tincidunt mauris eu risus.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot;&gt;
-      &lt;pre class=&quot;language-css&quot;&gt;&lt;code class=&quot;language-css&quot;&gt;&lt;span class=&quot;token selector&quot;&gt;#header h1 a&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;token property&quot;&gt;display&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; block&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;token property&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 300px&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;token property&quot;&gt;height&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 80px&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
-      &lt;/div&gt;
-&lt;p&gt;Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.&lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;p&gt;Stay tuned for more.&lt;/p&gt;</content:encoded></item></channel></rss>
