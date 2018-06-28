@@ -1,4 +1,0 @@
-languageCode = "en-us"
-title = "Ciprian Turcu's Website"
-baseURL = "http://ciprianturcu.com/"
-theme="hugo-cactus-theme"
