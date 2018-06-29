@@ -52,41 +52,6 @@
         "componentChunkName": "component---src-templates-post-template-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "posts-paste-project-angular-vs-jquery.json",
-        "path": "/posts/paste-project-angular-vs-jquery"
-    },
-    {
-        "componentChunkName": "component---src-templates-tag-template-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "tags-angular.json",
-        "path": "/tags/angular/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tag-template-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "tags-j-query.json",
-        "path": "/tags/j-query/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tag-template-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "tags-fight.json",
-        "path": "/tags/fight/"
-    },
-    {
-        "componentChunkName": "component---src-templates-category-template-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "categories-javascript.json",
-        "path": "/categories/javascript/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-template-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "posts-mobile-to-desktop-incognito-paste.json",
         "path": "/posts/mobile-to-desktop-incognito-paste/"
     },
@@ -152,6 +117,62 @@
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "categories-development.json",
         "path": "/categories/development/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-template-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "posts-paste-project-angular-vs-jquery.json",
+        "path": "/posts/paste-project-angular-vs-jquery"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-template-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "tags-angular.json",
+        "path": "/tags/angular/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-template-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "tags-j-query.json",
+        "path": "/tags/j-query/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-template-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "tags-fight.json",
+        "path": "/tags/fight/"
+    },
+    {
+        "componentChunkName": "component---src-templates-category-template-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "categories-javascript.json",
+        "path": "/categories/javascript/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-template-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "undefined.json",
+        "path": "/undefined/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-template-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "tags-back.json",
+        "path": "/tags/back/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-template-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "tags-going-forwarward.json",
+        "path": "/tags/going-forwarward/"
     },
     {
         "componentChunkName": "component---src-pages-404-jsx",

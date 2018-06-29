@@ -1951,12 +1951,12 @@
       },
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-06-28T22:13:59.496Z",
+      "buildTime": "2018-06-29T07:01:19.628Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "f8a1f571ea9b5a7c1b79ebe39664d304",
+        "contentDigest": "0e826d8ab2c6e391fb210d5ea8fabf41",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1966,7 +1966,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "745a12c296ff95cb50d2a880e82712b0",
+        "contentDigest": "ae2f43b17019f02f2a51dfc82f06d29e",
         "type": "Directory",
         "description": "Directory \"src/pages\"",
         "owner": "gatsby-source-filesystem"
@@ -1978,7 +1978,7 @@
       "size": 352,
       "prettySize": "352 B",
       "modifiedTime": "2018-06-28T21:50:12.564Z",
-      "accessTime": "2018-06-28T22:14:03.388Z",
+      "accessTime": "2018-06-29T07:01:24.182Z",
       "changeTime": "2018-06-28T21:54:14.052Z",
       "birthTime": "2018-06-27T21:40:15.646Z",
       "root": "/",
@@ -1996,11 +1996,11 @@
       "blksize": 4194304,
       "ino": 8594140433,
       "blocks": 0,
-      "atimeMs": 1530224043387.6921,
+      "atimeMs": 1530255684181.5544,
       "mtimeMs": 1530222612564.321,
       "ctimeMs": 1530222854052.4346,
       "birthtimeMs": 1530135615645.9285,
-      "atime": "2018-06-28T22:14:03.388Z",
+      "atime": "2018-06-29T07:01:24.182Z",
       "mtime": "2018-06-28T21:50:12.564Z",
       "ctime": "2018-06-28T21:54:14.052Z",
       "birthtime": "2018-06-27T21:40:15.646Z"
@@ -2010,7 +2010,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "b50fb7b87fd2fef5bff81e798bec4b84",
+        "contentDigest": "09dab429efa804e7f3cceedf673d76fa",
         "type": "Directory",
         "description": "Directory \"src/pages/articles\"",
         "owner": "gatsby-source-filesystem"
@@ -2019,11 +2019,11 @@
       "absolutePath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles",
       "relativePath": "articles",
       "extension": "",
-      "size": 224,
-      "prettySize": "224 B",
-      "modifiedTime": "2018-06-28T22:08:38.963Z",
-      "accessTime": "2018-06-28T22:14:03.404Z",
-      "changeTime": "2018-06-28T22:08:38.963Z",
+      "size": 256,
+      "prettySize": "256 B",
+      "modifiedTime": "2018-06-29T06:46:58.129Z",
+      "accessTime": "2018-06-29T07:01:24.199Z",
+      "changeTime": "2018-06-29T06:46:58.129Z",
       "birthTime": "2018-06-27T21:40:15.647Z",
       "root": "/",
       "dir": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages",
@@ -2033,20 +2033,20 @@
       "relativeDirectory": "",
       "dev": 16777220,
       "mode": 16877,
-      "nlink": 7,
+      "nlink": 8,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
       "ino": 8594140437,
       "blocks": 0,
-      "atimeMs": 1530224043403.7065,
-      "mtimeMs": 1530223718963.3076,
-      "ctimeMs": 1530223718963.3076,
+      "atimeMs": 1530255684199.3503,
+      "mtimeMs": 1530254818129.2441,
+      "ctimeMs": 1530254818129.2441,
       "birthtimeMs": 1530135615646.509,
-      "atime": "2018-06-28T22:14:03.404Z",
-      "mtime": "2018-06-28T22:08:38.963Z",
-      "ctime": "2018-06-28T22:08:38.963Z",
+      "atime": "2018-06-29T07:01:24.199Z",
+      "mtime": "2018-06-29T06:46:58.129Z",
+      "ctime": "2018-06-29T06:46:58.129Z",
       "birthtime": "2018-06-27T21:40:15.647Z"
     },
     "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/pages absPath of file": {
@@ -2054,7 +2054,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "50acbc187f90fe3d6a417f0710fff61a",
+        "contentDigest": "a0f15d06dc242bd01af901626294a5a1",
         "type": "Directory",
         "description": "Directory \"src/pages/pages\"",
         "owner": "gatsby-source-filesystem"
@@ -2066,7 +2066,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-06-27T21:40:15.789Z",
-      "accessTime": "2018-06-28T22:14:03.404Z",
+      "accessTime": "2018-06-29T07:01:24.199Z",
       "changeTime": "2018-06-28T21:54:14.052Z",
       "birthTime": "2018-06-27T21:40:15.754Z",
       "root": "/",
@@ -2084,11 +2084,11 @@
       "blksize": 4194304,
       "ino": 8594140461,
       "blocks": 0,
-      "atimeMs": 1530224043403.6697,
+      "atimeMs": 1530255684199.3896,
       "mtimeMs": 1530135615788.601,
       "ctimeMs": 1530222854052.3606,
       "birthtimeMs": 1530135615754.0378,
-      "atime": "2018-06-28T22:14:03.404Z",
+      "atime": "2018-06-29T07:01:24.199Z",
       "mtime": "2018-06-27T21:40:15.789Z",
       "ctime": "2018-06-28T21:54:14.052Z",
       "birthtime": "2018-06-27T21:40:15.754Z"
@@ -2098,7 +2098,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "f1d2882d44e4d7198441396754aace52",
+        "contentDigest": "8d27ebe6b25f29bc7592bbf34afff7d7",
         "type": "Directory",
         "description": "Directory \"src/pages/pages/2015-05-01---about\"",
         "owner": "gatsby-source-filesystem"
@@ -2110,7 +2110,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-06-27T21:40:15.788Z",
-      "accessTime": "2018-06-28T22:14:03.433Z",
+      "accessTime": "2018-06-29T07:01:24.206Z",
       "changeTime": "2018-06-28T21:54:14.052Z",
       "birthTime": "2018-06-27T21:40:15.754Z",
       "root": "/",
@@ -2128,11 +2128,11 @@
       "blksize": 4194304,
       "ino": 8594140465,
       "blocks": 0,
-      "atimeMs": 1530224043432.9797,
+      "atimeMs": 1530255684205.8271,
       "mtimeMs": 1530135615788.2488,
       "ctimeMs": 1530222854052.2825,
       "birthtimeMs": 1530135615754.1274,
-      "atime": "2018-06-28T22:14:03.433Z",
+      "atime": "2018-06-29T07:01:24.206Z",
       "mtime": "2018-06-27T21:40:15.788Z",
       "ctime": "2018-06-28T21:54:14.052Z",
       "birthtime": "2018-06-27T21:40:15.754Z"
@@ -2142,7 +2142,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "2f4128814f981d963ce29acc76a363e6",
+        "contentDigest": "531273438b2a4a5e3a1b2d6d1709fce8",
         "type": "Directory",
         "description": "Directory \"src/pages/pages/2015-05-01---contact\"",
         "owner": "gatsby-source-filesystem"
@@ -2154,7 +2154,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-06-27T21:40:15.800Z",
-      "accessTime": "2018-06-28T22:14:03.433Z",
+      "accessTime": "2018-06-29T07:01:24.206Z",
       "changeTime": "2018-06-28T21:54:14.048Z",
       "birthTime": "2018-06-27T21:40:15.789Z",
       "root": "/",
@@ -2172,11 +2172,11 @@
       "blksize": 4194304,
       "ino": 8594140462,
       "blocks": 0,
-      "atimeMs": 1530224043433.078,
+      "atimeMs": 1530255684205.9128,
       "mtimeMs": 1530135615800.1384,
       "ctimeMs": 1530222854047.6616,
       "birthtimeMs": 1530135615788.5876,
-      "atime": "2018-06-28T22:14:03.433Z",
+      "atime": "2018-06-29T07:01:24.206Z",
       "mtime": "2018-06-27T21:40:15.800Z",
       "ctime": "2018-06-28T21:54:14.048Z",
       "birthtime": "2018-06-27T21:40:15.789Z"
@@ -2904,7 +2904,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "560627f995ded35e0f61987b254554f7",
+        "contentDigest": "b90b17107e3fb2023522db26ac6d3884",
         "type": "Directory",
         "description": "Directory \"src/pages/articles/2017-03-19\"",
         "owner": "gatsby-source-filesystem"
@@ -2916,7 +2916,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-06-27T21:40:15.658Z",
-      "accessTime": "2018-06-28T22:14:03.433Z",
+      "accessTime": "2018-06-29T07:01:24.206Z",
       "changeTime": "2018-06-28T22:07:10.189Z",
       "birthTime": "2018-06-27T21:40:15.647Z",
       "root": "/",
@@ -2934,11 +2934,11 @@
       "blksize": 4194304,
       "ino": 8594140442,
       "blocks": 0,
-      "atimeMs": 1530224043433.1895,
+      "atimeMs": 1530255684205.514,
       "mtimeMs": 1530135615657.9402,
       "ctimeMs": 1530223630188.6748,
       "birthtimeMs": 1530135615646.61,
-      "atime": "2018-06-28T22:14:03.433Z",
+      "atime": "2018-06-29T07:01:24.206Z",
       "mtime": "2018-06-27T21:40:15.658Z",
       "ctime": "2018-06-28T22:07:10.189Z",
       "birthtime": "2018-06-27T21:40:15.647Z"
@@ -3106,7 +3106,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "c6b300aaa2e108301c8e8e1ec0cec494",
+        "contentDigest": "5852ef93f55993f8af2ac0c2c5887e73",
         "type": "Directory",
         "description": "Directory \"src/pages/articles/2017-03-31\"",
         "owner": "gatsby-source-filesystem"
@@ -3118,7 +3118,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-06-28T22:13:12.644Z",
-      "accessTime": "2018-06-28T22:14:03.433Z",
+      "accessTime": "2018-06-29T07:01:24.206Z",
       "changeTime": "2018-06-28T22:13:12.644Z",
       "birthTime": "2018-06-27T21:40:15.658Z",
       "root": "/",
@@ -3136,11 +3136,11 @@
       "blksize": 4194304,
       "ino": 8594140439,
       "blocks": 0,
-      "atimeMs": 1530224043433.397,
+      "atimeMs": 1530255684205.6426,
       "mtimeMs": 1530223992643.9646,
       "ctimeMs": 1530223992643.9646,
       "birthtimeMs": 1530135615658.2842,
-      "atime": "2018-06-28T22:14:03.433Z",
+      "atime": "2018-06-29T07:01:24.206Z",
       "mtime": "2018-06-28T22:13:12.644Z",
       "ctime": "2018-06-28T22:13:12.644Z",
       "birthtime": "2018-06-27T21:40:15.658Z"
@@ -3167,9 +3167,9 @@
       "extension": "md",
       "size": 4015,
       "prettySize": "4.01 kB",
-      "modifiedTime": "2018-06-28T21:28:07.830Z",
-      "accessTime": "2018-06-28T22:07:20.631Z",
-      "changeTime": "2018-06-28T21:54:14.000Z",
+      "modifiedTime": "2018-06-29T06:43:27.746Z",
+      "accessTime": "2018-06-29T06:43:27.745Z",
+      "changeTime": "2018-06-29T06:43:27.746Z",
       "birthTime": "2018-06-27T21:40:15.672Z",
       "root": "/",
       "dir": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-31",
@@ -3186,60 +3186,16 @@
       "blksize": 4194304,
       "ino": 8594140440,
       "blocks": 8,
-      "atimeMs": 1530223640630.5154,
-      "mtimeMs": 1530221287830.156,
-      "ctimeMs": 1530222854000.3582,
+      "atimeMs": 1530254607745.115,
+      "mtimeMs": 1530254607745.5034,
+      "ctimeMs": 1530254607745.5034,
       "birthtimeMs": 1530135615672.3108,
-      "atime": "2018-06-28T22:07:20.631Z",
-      "mtime": "2018-06-28T21:28:07.830Z",
-      "ctime": "2018-06-28T21:54:14.000Z",
+      "atime": "2018-06-29T06:43:27.745Z",
+      "mtime": "2018-06-29T06:43:27.746Z",
+      "ctime": "2018-06-29T06:43:27.746Z",
       "birthtime": "2018-06-27T21:40:15.672Z",
       "fields": {
         "slug": "/undefined/"
-      }
-    },
-    "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-31/index.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-31/index.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-31/index.md absPath of file",
-      "internal": {
-        "content": "---\ntitle: Paste Project - Angular vs jQuery\ndate: \"2017-03-31T23:25:10+03:00\"\nlayout: post\ndraft: false\npath: \"/posts/paste-project-angular-vs-jquery\"\ncategory: \"javascript\"\ntags:\n  - \"Angular\"\n  - \"jQuery\"\n  - \"fight\"\ndescription: \"Angular 2.x or jquery 3.x\"\n---\n\n##### Angular 2\n\nI'm new in angular 2. I made a project for about most of last year in Angular 1.5.x and started learning Angular 2 in the past month.\nFirst I did the angular tour of heroes tutorial on the official site. Kind of got stuck on the services part. I wanted to understand everything and things where not making so much sense so I moved on to other prospect tutorials. A very good friend of mine gave me as a birthday present a uDemy course, about angular 2. So I started from the versy first lesson, and I made each step with the IDE open and trying everything in my right. I wanted to remember everything, try out and understand completely. That worked, but, it was slow as hell. In after completing a 10% part of a 35h course I started just listening to the courses for the next 10%. at 20% I only started to look for the parts that where crucial in my head and needed to know about, that I was about to use. What was left in my head was routing, http and dependency injection.\n\nI loved routing, how it was done in Angular 2, just loved it. Everything was so simple, it made sense.HTTP, not so much and dependency injection I did not quite get.\n\n### jQuery\n\nI've been working with jQuery for about 10 years. It's been a love-hate relationship but more love, like 85% love, 15% hate. Hate in the first years when things did not work. It was usually (mostly) my fault when that happened. but in jQuery, like, I think most of everybody else that's a 10+ year front end (or full stack) developer, I was and am, more in control of, more comfortable with.\n\n### The project\n\nThe project was simple. A webpage where you get to put something in a textbox on mobile and then have it on any other place (desktop mostly). A web based app that allows any user to share anything at any given time.\n\nIt took me 1.5 weeks to fail in doing it with angular 2 and about 3-5 hours to do it from scratch with jQuery, Bootstrap and both a goLang rest server and firebase database.\n\n### The result\n\nAt http://toolaxy.com/paste you can find the project. The html, css, js are hosted on github pages and the database is firebase. Basically it's a fully functional web app that's simple as hell, and that's also free.\n\nAt one point things where too complicated in Angular 2 to make and a CRAZY idea struck my mind. Why not do it in jQuery, you're much more comfortable with it, and it does not have to be a complex functionality. Well, originally I was looking to learn Angular 2 (that's why I made it originally in angular), I was looking to learn golang. But in the end, all that I was left with was the realization that angular 2 was not the best choice for this project. And it made me question, what kind of project is angular 2 good for. Still don't have the answer to that. Same problem in my head with React. At most, if I do have a reason for building something specifically like that, with string interpolation, data binding, directives, models, routes and other angular-like features, I would use vuejs. It seems to have everything, support and covers most of the things one might need. First, there must be a reason for using it.\n\n### Conclusion\n\njQuery is ranking better than angular and react and vuejs combined on google trends. But that's not the reason.\njQuery is older and more documented online than anguar and react and vuejs combined (I'm talking stack overflow, forums, projects, etc). But that's not the reason either.\njQuery is the fastest, easiest, most reliable way for me to get to a result in a web app compared to any other alternative, mostly because it was part of my life for the past 10 years of front end development. And that is the reason. I'm more knowledgeable in jQuery, I am more capable of getting the job done. Period.\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "bfea530b1b6d58c0da38ce9685887549",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin",
-          "tagSlugs": "default-site-plugin",
-          "categorySlug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Paste Project - Angular vs jQuery",
-        "date": "2017-03-31T23:25:10+03:00",
-        "layout": "post",
-        "draft": false,
-        "path": "/posts/paste-project-angular-vs-jquery",
-        "category": "javascript",
-        "tags": [
-          "Angular",
-          "jQuery",
-          "fight"
-        ],
-        "description": "Angular 2.x or jquery 3.x",
-        "_PARENT": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-31/index.md absPath of file",
-        "parent": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-31/index.md absPath of file"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\n##### Angular 2\n\nI'm new in angular 2. I made a project for about most of last year in Angular 1.5.x and started learning Angular 2 in the past month.\nFirst I did the angular tour of heroes tutorial on the official site. Kind of got stuck on the services part. I wanted to understand everything and things where not making so much sense so I moved on to other prospect tutorials. A very good friend of mine gave me as a birthday present a uDemy course, about angular 2. So I started from the versy first lesson, and I made each step with the IDE open and trying everything in my right. I wanted to remember everything, try out and understand completely. That worked, but, it was slow as hell. In after completing a 10% part of a 35h course I started just listening to the courses for the next 10%. at 20% I only started to look for the parts that where crucial in my head and needed to know about, that I was about to use. What was left in my head was routing, http and dependency injection.\n\nI loved routing, how it was done in Angular 2, just loved it. Everything was so simple, it made sense.HTTP, not so much and dependency injection I did not quite get.\n\n### jQuery\n\nI've been working with jQuery for about 10 years. It's been a love-hate relationship but more love, like 85% love, 15% hate. Hate in the first years when things did not work. It was usually (mostly) my fault when that happened. but in jQuery, like, I think most of everybody else that's a 10+ year front end (or full stack) developer, I was and am, more in control of, more comfortable with.\n\n### The project\n\nThe project was simple. A webpage where you get to put something in a textbox on mobile and then have it on any other place (desktop mostly). A web based app that allows any user to share anything at any given time.\n\nIt took me 1.5 weeks to fail in doing it with angular 2 and about 3-5 hours to do it from scratch with jQuery, Bootstrap and both a goLang rest server and firebase database.\n\n### The result\n\nAt http://toolaxy.com/paste you can find the project. The html, css, js are hosted on github pages and the database is firebase. Basically it's a fully functional web app that's simple as hell, and that's also free.\n\nAt one point things where too complicated in Angular 2 to make and a CRAZY idea struck my mind. Why not do it in jQuery, you're much more comfortable with it, and it does not have to be a complex functionality. Well, originally I was looking to learn Angular 2 (that's why I made it originally in angular), I was looking to learn golang. But in the end, all that I was left with was the realization that angular 2 was not the best choice for this project. And it made me question, what kind of project is angular 2 good for. Still don't have the answer to that. Same problem in my head with React. At most, if I do have a reason for building something specifically like that, with string interpolation, data binding, directives, models, routes and other angular-like features, I would use vuejs. It seems to have everything, support and covers most of the things one might need. First, there must be a reason for using it.\n\n### Conclusion\n\njQuery is ranking better than angular and react and vuejs combined on google trends. But that's not the reason.\njQuery is older and more documented online than anguar and react and vuejs combined (I'm talking stack overflow, forums, projects, etc). But that's not the reason either.\njQuery is the fastest, easiest, most reliable way for me to get to a result in a web app compared to any other alternative, mostly because it was part of my life for the past 10 years of front end development. And that is the reason. I'm more knowledgeable in jQuery, I am more capable of getting the job done. Period.\n",
-      "fileAbsolutePath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-31/index.md",
-      "fields": {
-        "slug": "/posts/paste-project-angular-vs-jquery",
-        "tagSlugs": [
-          "/tags/angular/",
-          "/tags/j-query/",
-          "/tags/fight/"
-        ],
-        "categorySlug": "/categories/javascript/"
       }
     },
     "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-28 absPath of file": {
@@ -3247,7 +3203,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "7390b2b684ca36fec8ce3e799247b4b2",
+        "contentDigest": "138f1f36a4ece9a59e69e9b5ac13622b",
         "type": "Directory",
         "description": "Directory \"src/pages/articles/2017-03-28\"",
         "owner": "gatsby-source-filesystem"
@@ -3259,7 +3215,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-06-28T22:13:21.752Z",
-      "accessTime": "2018-06-28T22:14:03.433Z",
+      "accessTime": "2018-06-29T07:01:24.206Z",
       "changeTime": "2018-06-28T22:13:21.752Z",
       "birthTime": "2018-06-27T21:40:15.703Z",
       "root": "/",
@@ -3277,11 +3233,11 @@
       "blksize": 4194304,
       "ino": 8594140445,
       "blocks": 0,
-      "atimeMs": 1530224043433.3018,
+      "atimeMs": 1530255684205.58,
       "mtimeMs": 1530224001751.9531,
       "ctimeMs": 1530224001751.9531,
       "birthtimeMs": 1530135615702.765,
-      "atime": "2018-06-28T22:14:03.433Z",
+      "atime": "2018-06-29T07:01:24.206Z",
       "mtime": "2018-06-28T22:13:21.752Z",
       "ctime": "2018-06-28T22:13:21.752Z",
       "birthtime": "2018-06-27T21:40:15.703Z"
@@ -3390,7 +3346,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "864635de83216be9c624d193fa90b867",
+        "contentDigest": "9ee28feac2be31dcfcd37e9a9d918288",
         "type": "Directory",
         "description": "Directory \"src/pages/articles/2017-04-13\"",
         "owner": "gatsby-source-filesystem"
@@ -3402,7 +3358,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-06-28T22:13:41.664Z",
-      "accessTime": "2018-06-28T22:14:03.434Z",
+      "accessTime": "2018-06-29T07:01:24.206Z",
       "changeTime": "2018-06-28T22:13:41.664Z",
       "birthTime": "2018-06-27T21:40:15.744Z",
       "root": "/",
@@ -3420,11 +3376,11 @@
       "blksize": 4194304,
       "ino": 8594140450,
       "blocks": 0,
-      "atimeMs": 1530224043433.5547,
+      "atimeMs": 1530255684205.704,
       "mtimeMs": 1530224021664.2932,
       "ctimeMs": 1530224021664.2932,
       "birthtimeMs": 1530135615743.9294,
-      "atime": "2018-06-28T22:14:03.434Z",
+      "atime": "2018-06-29T07:01:24.206Z",
       "mtime": "2018-06-28T22:13:41.664Z",
       "ctime": "2018-06-28T22:13:41.664Z",
       "birthtime": "2018-06-27T21:40:15.744Z"
@@ -3526,6 +3482,190 @@
         "categorySlug": "/categories/development/"
       }
     },
+    "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-31/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-31/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-31/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: Paste Project - Angular vs jQuery\ndate: \"2017-03-31T23:25:10+03:00\"\nlayout: post\ndraft: false\npath: \"/posts/paste-project-angular-vs-jquery\"\ncategory: \"javascript\"\ntags:\n  - \"Angular\"\n  - \"jQuery\"\n  - \"fight\"\ndescription: \"Angular 2.x or jquery 3.x\"\n---\n\n##### Angular 2\n\nI'm new in angular 2. I made a project for about most of last year in Angular 1.5.x and started learning Angular 2 in the past month.\nFirst I did the angular tour of heroes tutorial on the official site. Kind of got stuck on the services part. I wanted to understand everything and things where not making so much sense so I moved on to other prospect tutorials. A very good friend of mine gave me as a birthday present a uDemy course, about angular 2. So I started from the versy first lesson, and I made each step with the IDE open and trying everything in my right. I wanted to remember everything, try out and understand completely. That worked, but, it was slow as hell. In after completing a 10% part of a 35h course I started just listening to the courses for the next 10%. at 20% I only started to look for the parts that where crucial in my head and needed to know about, that I was about to use. What was left in my head was routing, http and dependency injection.\n\nI loved routing, how it was done in Angular 2, just loved it. Everything was so simple, it made sense.HTTP, not so much and dependency injection I did not quite get.\n\n### jQuery\n\nI've been working with jQuery for about 10 years. It's been a love-hate relationship but more love, like 85% love, 15% hate. Hate in the first years when things did not work. It was usually (mostly) my fault when that happened. but in jQuery, like, I think most of everybody else that's a 10+ year front end (or full stack) developer, I was and am, more in control of, more comfortable with.\n\n### The project\n\nThe project was simple. A webpage where you get to put something in a textbox on mobile and then have it on any other place (desktop mostly). A web based app that allows any user to share anything at any given time.\n\nIt took me 1.5 weeks to fail in doing it with angular 2 and about 3-5 hours to do it from scratch with jQuery, Bootstrap and both a goLang rest server and firebase database.\n\n### The result\n\nAt http://toolaxy.com/paste you can find the project. The html, css, js are hosted on github pages and the database is firebase. Basically it's a fully functional web app that's simple as hell, and that's also free.\n\nAt one point things where too complicated in Angular 2 to make and a CRAZY idea struck my mind. Why not do it in jQuery, you're much more comfortable with it, and it does not have to be a complex functionality. Well, originally I was looking to learn Angular 2 (that's why I made it originally in angular), I was looking to learn golang. But in the end, all that I was left with was the realization that angular 2 was not the best choice for this project. And it made me question, what kind of project is angular 2 good for. Still don't have the answer to that. Same problem in my head with React. At most, if I do have a reason for building something specifically like that, with string interpolation, data binding, directives, models, routes and other angular-like features, I would use vuejs. It seems to have everything, support and covers most of the things one might need. First, there must be a reason for using it.\n\n### Conclusion\n\njQuery is ranking better than angular and react and vuejs combined on google trends. But that's not the reason.\njQuery is older and more documented online than anguar and react and vuejs combined (I'm talking stack overflow, forums, projects, etc). But that's not the reason either.\njQuery is the fastest, easiest, most reliable way for me to get to a result in a web app compared to any other alternative, mostly because it was part of my life for the past 10 years of front end development. And that is the reason. I'm more knowledgeable in jQuery, I am more capable of getting the job done. Period.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "bfea530b1b6d58c0da38ce9685887549",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin",
+          "tagSlugs": "default-site-plugin",
+          "categorySlug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Paste Project - Angular vs jQuery",
+        "date": "2017-03-31T23:25:10+03:00",
+        "layout": "post",
+        "draft": false,
+        "path": "/posts/paste-project-angular-vs-jquery",
+        "category": "javascript",
+        "tags": [
+          "Angular",
+          "jQuery",
+          "fight"
+        ],
+        "description": "Angular 2.x or jquery 3.x",
+        "_PARENT": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-31/index.md absPath of file",
+        "parent": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-31/index.md absPath of file"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n##### Angular 2\n\nI'm new in angular 2. I made a project for about most of last year in Angular 1.5.x and started learning Angular 2 in the past month.\nFirst I did the angular tour of heroes tutorial on the official site. Kind of got stuck on the services part. I wanted to understand everything and things where not making so much sense so I moved on to other prospect tutorials. A very good friend of mine gave me as a birthday present a uDemy course, about angular 2. So I started from the versy first lesson, and I made each step with the IDE open and trying everything in my right. I wanted to remember everything, try out and understand completely. That worked, but, it was slow as hell. In after completing a 10% part of a 35h course I started just listening to the courses for the next 10%. at 20% I only started to look for the parts that where crucial in my head and needed to know about, that I was about to use. What was left in my head was routing, http and dependency injection.\n\nI loved routing, how it was done in Angular 2, just loved it. Everything was so simple, it made sense.HTTP, not so much and dependency injection I did not quite get.\n\n### jQuery\n\nI've been working with jQuery for about 10 years. It's been a love-hate relationship but more love, like 85% love, 15% hate. Hate in the first years when things did not work. It was usually (mostly) my fault when that happened. but in jQuery, like, I think most of everybody else that's a 10+ year front end (or full stack) developer, I was and am, more in control of, more comfortable with.\n\n### The project\n\nThe project was simple. A webpage where you get to put something in a textbox on mobile and then have it on any other place (desktop mostly). A web based app that allows any user to share anything at any given time.\n\nIt took me 1.5 weeks to fail in doing it with angular 2 and about 3-5 hours to do it from scratch with jQuery, Bootstrap and both a goLang rest server and firebase database.\n\n### The result\n\nAt http://toolaxy.com/paste you can find the project. The html, css, js are hosted on github pages and the database is firebase. Basically it's a fully functional web app that's simple as hell, and that's also free.\n\nAt one point things where too complicated in Angular 2 to make and a CRAZY idea struck my mind. Why not do it in jQuery, you're much more comfortable with it, and it does not have to be a complex functionality. Well, originally I was looking to learn Angular 2 (that's why I made it originally in angular), I was looking to learn golang. But in the end, all that I was left with was the realization that angular 2 was not the best choice for this project. And it made me question, what kind of project is angular 2 good for. Still don't have the answer to that. Same problem in my head with React. At most, if I do have a reason for building something specifically like that, with string interpolation, data binding, directives, models, routes and other angular-like features, I would use vuejs. It seems to have everything, support and covers most of the things one might need. First, there must be a reason for using it.\n\n### Conclusion\n\njQuery is ranking better than angular and react and vuejs combined on google trends. But that's not the reason.\njQuery is older and more documented online than anguar and react and vuejs combined (I'm talking stack overflow, forums, projects, etc). But that's not the reason either.\njQuery is the fastest, easiest, most reliable way for me to get to a result in a web app compared to any other alternative, mostly because it was part of my life for the past 10 years of front end development. And that is the reason. I'm more knowledgeable in jQuery, I am more capable of getting the job done. Period.\n",
+      "fileAbsolutePath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-03-31/index.md",
+      "fields": {
+        "slug": "/posts/paste-project-angular-vs-jquery",
+        "tagSlugs": [
+          "/tags/angular/",
+          "/tags/j-query/",
+          "/tags/fight/"
+        ],
+        "categorySlug": "/categories/javascript/"
+      }
+    },
+    "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2018-06-29 absPath of file": {
+      "id": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2018-06-29 absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "a7d18a07e168b302209abb564e2f86d6",
+        "type": "Directory",
+        "description": "Directory \"src/pages/articles/2018-06-29\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2018-06-29",
+      "relativePath": "articles/2018-06-29",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2018-06-29T06:46:33.893Z",
+      "accessTime": "2018-06-29T07:01:24.206Z",
+      "changeTime": "2018-06-29T06:46:58.129Z",
+      "birthTime": "2018-06-29T06:46:33.892Z",
+      "root": "/",
+      "dir": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles",
+      "base": "2018-06-29",
+      "ext": "",
+      "name": "2018-06-29",
+      "relativeDirectory": "articles",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8594241905,
+      "blocks": 0,
+      "atimeMs": 1530255684205.7656,
+      "mtimeMs": 1530254793893.4705,
+      "ctimeMs": 1530254818129.2437,
+      "birthtimeMs": 1530254793892.1223,
+      "atime": "2018-06-29T07:01:24.206Z",
+      "mtime": "2018-06-29T06:46:33.893Z",
+      "ctime": "2018-06-29T06:46:58.129Z",
+      "birthtime": "2018-06-29T06:46:33.892Z"
+    },
+    "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2018-06-29/index.md absPath of file": {
+      "id": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2018-06-29/index.md absPath of file",
+      "children": [
+        "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2018-06-29/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "fa0025c3f270d84196a36191fb5bdaad",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "description": "File \"src/pages/articles/2018-06-29/index.md\"",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2018-06-29/index.md",
+      "relativePath": "articles/2018-06-29/index.md",
+      "extension": "md",
+      "size": 1034,
+      "prettySize": "1.03 kB",
+      "modifiedTime": "2018-06-29T07:01:07.733Z",
+      "accessTime": "2018-06-29T07:01:07.732Z",
+      "changeTime": "2018-06-29T07:01:07.733Z",
+      "birthTime": "2018-06-29T06:46:33.893Z",
+      "root": "/",
+      "dir": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2018-06-29",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "articles/2018-06-29",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8594241906,
+      "blocks": 8,
+      "atimeMs": 1530255667732.163,
+      "mtimeMs": 1530255667732.5715,
+      "ctimeMs": 1530255667732.5715,
+      "birthtimeMs": 1530254793893.4514,
+      "atime": "2018-06-29T07:01:07.732Z",
+      "mtime": "2018-06-29T07:01:07.733Z",
+      "ctime": "2018-06-29T07:01:07.733Z",
+      "birthtime": "2018-06-29T06:46:33.893Z",
+      "fields": {
+        "slug": "/undefined/"
+      }
+    },
+    "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2018-06-29/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2018-06-29/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2018-06-29/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: \"It's been a while\"\nexcerpt: \"Latest update. 2018!\"\nauthor: \"Ciprian Turcu\"\ndate: \"2018-06-29T07:00:18.716Z\"\ndraft: false\nlayout: \"post\"\nfeaturedImage: \"\"\ndescription: \"What have I been doing? - June 2018\"\ntags: \n    - back\n    - updates\n    - going forwarward\n---\n\n<p>It really has been a while since I last wrote anything here. I've been busy lately and I wanted to give a quick update on what's been going on.</p>\n<p>I moved on from Wordpress about a year ago, but oficially, only about 2 weeks ago when I gave the rights to one of my most popular plugins to someone else. Now, what about AngularJs and everything else I've been doing? I moved on to react more than a year ago, and stuck with it. I really really like it now, would not go back for anything.</p>\n<p>I plan on creating tutorials in react and related things here, going forward.&nbsp;</p>\n<p>This was just a short update of what is to come. Very short, not complete though, I have other plans but for the moment I would keep these a secret. stay tuned.</p>",
+        "type": "MarkdownRemark",
+        "contentDigest": "fd1aa62597cdaae8c89ec47614f4d394",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin",
+          "tagSlugs": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "It's been a while",
+        "excerpt": "Latest update. 2018!",
+        "author": "Ciprian Turcu",
+        "date": "2018-06-29T07:00:18.716Z",
+        "draft": false,
+        "layout": "post",
+        "featuredImage": "",
+        "description": "What have I been doing? - June 2018",
+        "tags": [
+          "back",
+          "updates",
+          "going forwarward"
+        ],
+        "_PARENT": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2018-06-29/index.md absPath of file",
+        "parent": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2018-06-29/index.md absPath of file"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n<p>It really has been a while since I last wrote anything here. I've been busy lately and I wanted to give a quick update on what's been going on.</p>\n<p>I moved on from Wordpress about a year ago, but oficially, only about 2 weeks ago when I gave the rights to one of my most popular plugins to someone else. Now, what about AngularJs and everything else I've been doing? I moved on to react more than a year ago, and stuck with it. I really really like it now, would not go back for anything.</p>\n<p>I plan on creating tutorials in react and related things here, going forward.&nbsp;</p>\n<p>This was just a short update of what is to come. Very short, not complete though, I have other plans but for the moment I would keep these a secret. stay tuned.</p>",
+      "fileAbsolutePath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2018-06-29/index.md",
+      "fields": {
+        "slug": "/undefined/",
+        "tagSlugs": [
+          "/tags/back/",
+          "/tags/updates/",
+          "/tags/going-forwarward/"
+        ]
+      }
+    },
     "SitePage /offline-plugin-app-shell-fallback/": {
       "layout": "index",
       "jsonName": "offline-plugin-app-shell-fallback.json",
@@ -3542,7 +3682,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "13d3294b0b97cf7cecf3a45bb565b9d8",
+        "contentDigest": "2095b2012121828aeef5a016ab59d5d6",
         "description": "Plugin gatsby-plugin-offline",
         "owner": "internal-data-bridge"
       }
@@ -3565,7 +3705,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "fb166b6ca1a3f2030bac53f4de5d0718",
+        "contentDigest": "a0eb236924a75d651c0337ae37a21cd3",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3588,7 +3728,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "aa7219b3ca8949b7794f41ef1f02680c",
+        "contentDigest": "adc7d642500d7454c3947baa955a93e8",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3611,7 +3751,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b333b2780ed763276cd1c9b401691a2e",
+        "contentDigest": "b5e21c5b432bcbd1c41425fc7f9dbedf",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3634,7 +3774,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "98af5a8b98a2dc6b204ceac2128d7aed",
+        "contentDigest": "d935e35f662eb49cbb78d2199d6b4bd3",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3657,7 +3797,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "dd08729524a1aa635905313a7f61a068",
+        "contentDigest": "e3625d2ce2d0ea664f621d622627383e",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3680,122 +3820,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c0eb706113ef186f7ca07190944e1ee2",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /posts/paste-project-angular-vs-jquery": {
-      "layout": "index",
-      "jsonName": "posts-paste-project-angular-vs-jquery.json",
-      "internalComponentName": "ComponentPostsPasteProjectAngularVsJquery",
-      "path": "/posts/paste-project-angular-vs-jquery",
-      "component": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/post-template.jsx",
-      "componentChunkName": "component---src-templates-post-template-jsx",
-      "context": {
-        "slug": "/posts/paste-project-angular-vs-jquery"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/post-template.jsx",
-      "id": "SitePage /posts/paste-project-angular-vs-jquery",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "7529b51034462f86bea054d2def98f69",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/angular/": {
-      "layout": "index",
-      "jsonName": "tags-angular.json",
-      "internalComponentName": "ComponentTagsAngular",
-      "path": "/tags/angular/",
-      "component": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/tag-template.jsx",
-      "componentChunkName": "component---src-templates-tag-template-jsx",
-      "context": {
-        "tag": "Angular"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/tag-template.jsx",
-      "id": "SitePage /tags/angular/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "35982f6dd4f7be51bbe9d21690cd93d5",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/j-query/": {
-      "layout": "index",
-      "jsonName": "tags-j-query.json",
-      "internalComponentName": "ComponentTagsJQuery",
-      "path": "/tags/j-query/",
-      "component": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/tag-template.jsx",
-      "componentChunkName": "component---src-templates-tag-template-jsx",
-      "context": {
-        "tag": "jQuery"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/tag-template.jsx",
-      "id": "SitePage /tags/j-query/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "4af9ac956dbd090ab11e58dd87c97799",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/fight/": {
-      "layout": "index",
-      "jsonName": "tags-fight.json",
-      "internalComponentName": "ComponentTagsFight",
-      "path": "/tags/fight/",
-      "component": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/tag-template.jsx",
-      "componentChunkName": "component---src-templates-tag-template-jsx",
-      "context": {
-        "tag": "fight"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/tag-template.jsx",
-      "id": "SitePage /tags/fight/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "73e7c07c196b87666a51a03d68687211",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /categories/javascript/": {
-      "layout": "index",
-      "jsonName": "categories-javascript.json",
-      "internalComponentName": "ComponentCategoriesJavascript",
-      "path": "/categories/javascript/",
-      "component": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/category-template.jsx",
-      "componentChunkName": "component---src-templates-category-template-jsx",
-      "context": {
-        "category": "javascript"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/category-template.jsx",
-      "id": "SitePage /categories/javascript/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "2b216dbcf5299210f30f13b3c80c56d5",
+        "contentDigest": "b4d4b95e0389c4ca38b18862ff6eff3b",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3818,7 +3843,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5333cc506e095e2be2c268ac2c8fe4cf",
+        "contentDigest": "10208917d36b935b08cd9f576005d9d8",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3841,7 +3866,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5cbfd3f64b4c425379690edc29abd038",
+        "contentDigest": "06f3e1a75e20598167ac403a1476f890",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3864,7 +3889,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5e25116d2416f9a5e1adb9ec0d2bbcf5",
+        "contentDigest": "83d4c66ce25734b909896baa9ad1a4d6",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3887,7 +3912,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "05fa20c95ae2f8335e04c5dc1be0f871",
+        "contentDigest": "6e5c6eb965b419dff3ae5094c7d4be8e",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3910,7 +3935,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a91cf41ee7a4a65b30498e7037ad618e",
+        "contentDigest": "d264b03ff65c87e7c91122cbf4f87c50",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3933,7 +3958,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b46a22bc1ad42aa938cf3605df6c1f8e",
+        "contentDigest": "a81e1b4adbde80f1a75670bf131bae17",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3956,7 +3981,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "61c69356e9d0e6c1f9a6a7d6d4b352e5",
+        "contentDigest": "987a7ef5ce6dd377b1749ebf308b8333",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3969,7 +3994,7 @@
       "component": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/tag-template.jsx",
       "componentChunkName": "component---src-templates-tag-template-jsx",
       "context": {
-        "tag": "Updates"
+        "tag": "updates"
       },
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
@@ -3979,7 +4004,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6f5a54ef6ac5dcbce81e705e548d547b",
+        "contentDigest": "f5380e42dcb022cc4e41cedd035e4cb4",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4002,7 +4027,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5ae2a9ffcb4e7f3f04e61ea789be6f14",
+        "contentDigest": "c4729140728d1146e3141675573ba6d9",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4025,7 +4050,191 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0e542be3b28dd471d5938a654123e9d1",
+        "contentDigest": "a93a81e64c4df8895b31db1081c292a9",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /posts/paste-project-angular-vs-jquery": {
+      "layout": "index",
+      "jsonName": "posts-paste-project-angular-vs-jquery.json",
+      "internalComponentName": "ComponentPostsPasteProjectAngularVsJquery",
+      "path": "/posts/paste-project-angular-vs-jquery",
+      "component": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/post-template.jsx",
+      "componentChunkName": "component---src-templates-post-template-jsx",
+      "context": {
+        "slug": "/posts/paste-project-angular-vs-jquery"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/post-template.jsx",
+      "id": "SitePage /posts/paste-project-angular-vs-jquery",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d0bbd5ca9cd7e99a8e354467a8f39bf8",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/angular/": {
+      "layout": "index",
+      "jsonName": "tags-angular.json",
+      "internalComponentName": "ComponentTagsAngular",
+      "path": "/tags/angular/",
+      "component": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/tag-template.jsx",
+      "componentChunkName": "component---src-templates-tag-template-jsx",
+      "context": {
+        "tag": "Angular"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/tag-template.jsx",
+      "id": "SitePage /tags/angular/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "bda61a71783894a4d7ab39a92ffbeff5",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/j-query/": {
+      "layout": "index",
+      "jsonName": "tags-j-query.json",
+      "internalComponentName": "ComponentTagsJQuery",
+      "path": "/tags/j-query/",
+      "component": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/tag-template.jsx",
+      "componentChunkName": "component---src-templates-tag-template-jsx",
+      "context": {
+        "tag": "jQuery"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/tag-template.jsx",
+      "id": "SitePage /tags/j-query/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "aa4f9eca76a46746436561edb0d151b4",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/fight/": {
+      "layout": "index",
+      "jsonName": "tags-fight.json",
+      "internalComponentName": "ComponentTagsFight",
+      "path": "/tags/fight/",
+      "component": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/tag-template.jsx",
+      "componentChunkName": "component---src-templates-tag-template-jsx",
+      "context": {
+        "tag": "fight"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/tag-template.jsx",
+      "id": "SitePage /tags/fight/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "edc924ec4de292cb267a884b89e5690d",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /categories/javascript/": {
+      "layout": "index",
+      "jsonName": "categories-javascript.json",
+      "internalComponentName": "ComponentCategoriesJavascript",
+      "path": "/categories/javascript/",
+      "component": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/category-template.jsx",
+      "componentChunkName": "component---src-templates-category-template-jsx",
+      "context": {
+        "category": "javascript"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/category-template.jsx",
+      "id": "SitePage /categories/javascript/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "1a46f84aab5b41139d586d781e1521b5",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /undefined/": {
+      "layout": "index",
+      "jsonName": "undefined.json",
+      "internalComponentName": "ComponentUndefined",
+      "path": "/undefined/",
+      "component": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/post-template.jsx",
+      "componentChunkName": "component---src-templates-post-template-jsx",
+      "context": {
+        "slug": "/undefined/"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/post-template.jsx",
+      "id": "SitePage /undefined/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "22f32ddf75599d87a6ef32c108eb5527",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/back/": {
+      "layout": "index",
+      "jsonName": "tags-back.json",
+      "internalComponentName": "ComponentTagsBack",
+      "path": "/tags/back/",
+      "component": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/tag-template.jsx",
+      "componentChunkName": "component---src-templates-tag-template-jsx",
+      "context": {
+        "tag": "back"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/tag-template.jsx",
+      "id": "SitePage /tags/back/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "8c838961a7283d49b3a2f20761aa91c0",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/going-forwarward/": {
+      "layout": "index",
+      "jsonName": "tags-going-forwarward.json",
+      "internalComponentName": "ComponentTagsGoingForwarward",
+      "path": "/tags/going-forwarward/",
+      "component": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/tag-template.jsx",
+      "componentChunkName": "component---src-templates-tag-template-jsx",
+      "context": {
+        "tag": "going forwarward"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/templates/tag-template.jsx",
+      "id": "SitePage /tags/going-forwarward/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "46b8e2b0857ba843b6c8ef583cceab3e",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4046,7 +4255,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c5cea2ccfc0d52af196551bdd07f58b0",
+        "contentDigest": "e2601160f5c01cda9d24e84bfa2858c7",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -4067,7 +4276,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d8bf9956ea185a54d4e365895f646dab",
+        "contentDigest": "196e5d5a5d673347ad466170cfd38488",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -4088,7 +4297,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "000834efbf21789a9e87a562eef13b77",
+        "contentDigest": "de4fd64bd596b69d68b49052e4dd07ae",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -4109,7 +4318,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9aa56291453959b1c31aa3c33deb4fe9",
+        "contentDigest": "f52ef0d994fb636c18b71e82c4561394",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -4130,7 +4339,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b22b7a45558b366abef5a6122bfcca59",
+        "contentDigest": "5fec15cdfc42d2dda199441554ee76f5",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
@@ -4174,7 +4383,11 @@
         "/categories/",
         "/",
         "/tags/",
-        "/404.html"
+        "/404.html",
+        "/tags/going-forwar/",
+        "/tags/back/",
+        "/undefined/",
+        "/tags/going-forwarward/"
       ],
       "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2016-01-09---Perfecting-the-Art-of-Perfection/index.md absPath of file >>> MarkdownRemark": [
         "/posts/welcome-to-my-site/"
@@ -4208,6 +4421,9 @@
       ],
       "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2017-04-13/index.md absPath of file >>> MarkdownRemark": [
         "/posts/april-update/"
+      ],
+      "/Users/ciprianturcu/Documents/work/ciprianturcu.com-source/src/pages/articles/2018-06-29/index.md absPath of file >>> MarkdownRemark": [
+        "/undefined/"
       ]
     },
     "connections": {
@@ -4234,7 +4450,10 @@
         "/categories/development/",
         "/categories/",
         "/",
-        "/tags/"
+        "/tags/",
+        "/tags/going-forwar/",
+        "/tags/back/",
+        "/tags/going-forwarward/"
       ],
       "SitePage": [
         "/dev-404-page/"
